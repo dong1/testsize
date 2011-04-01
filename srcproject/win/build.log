@@ -1,0 +1,2435 @@
+1>------ Clean started: Project: install, Configuration: Debug Win32 ------
+1>Performing Makefile project actions
+1>Microsoft (R) Program Maintenance Utility Version 9.00.30729.01
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1> if exist d:\beta\project\win\install\CUBRID_Debug_Win32 cmd /c rmdir d:\beta\project\win\install\CUBRID_Debug_Win32 /s /q
+2>------ Clean started: Project: cmdep, Configuration: Debug Win32 ------
+2>Deleting intermediate and output files for project 'cmdep', configuration 'Debug|Win32'
+3>------ Clean started: Project: cascci, Configuration: Debug Win32 ------
+3>Deleting intermediate and output files for project 'cascci', configuration 'Debug|Win32'
+4>------ Clean started: Project: cub_server, Configuration: Debug Win32 ------
+4>Deleting intermediate and output files for project 'cub_server', configuration 'Debug|Win32'
+5>------ Clean started: Project: cmstat, Configuration: Debug Win32 ------
+5>Deleting intermediate and output files for project 'cmstat', configuration 'Debug|Win32'
+6>------ Clean started: Project: cub_cas, Configuration: Debug Win32 ------
+6>Deleting intermediate and output files for project 'cub_cas', configuration 'Debug|Win32'
+7>------ Clean started: Project: broker_log_converter, Configuration: Debug Win32 ------
+7>Deleting intermediate and output files for project 'broker_log_converter', configuration 'Debug|Win32'
+8>------ Clean started: Project: broker_log_top, Configuration: Debug Win32 ------
+8>Deleting intermediate and output files for project 'broker_log_top', configuration 'Debug|Win32'
+9>------ Clean started: Project: cub_broker, Configuration: Debug Win32 ------
+9>Deleting intermediate and output files for project 'cub_broker', configuration 'Debug|Win32'
+10>------ Clean started: Project: broker_changer, Configuration: Debug Win32 ------
+10>Deleting intermediate and output files for project 'broker_changer', configuration 'Debug|Win32'
+11>------ Clean started: Project: cub_jobsa, Configuration: Debug Win32 ------
+11>Deleting intermediate and output files for project 'cub_jobsa', configuration 'Debug|Win32'
+12>------ Clean started: Project: cub_sainfo, Configuration: Debug Win32 ------
+12>Deleting intermediate and output files for project 'cub_sainfo', configuration 'Debug|Win32'
+13>------ Clean started: Project: cub_commdb, Configuration: Debug Win32 ------
+13>Deleting intermediate and output files for project 'cub_commdb', configuration 'Debug|Win32'
+14>------ Clean started: Project: cubrid_broker, Configuration: Debug Win32 ------
+14>Deleting intermediate and output files for project 'cubrid_broker', configuration 'Debug|Win32'
+15>------ Clean started: Project: loadjava, Configuration: Debug Win32 ------
+15>Deleting intermediate and output files for project 'loadjava', configuration 'Debug|Win32'
+16>------ Clean started: Project: cub_master, Configuration: Debug Win32 ------
+16>Deleting intermediate and output files for project 'cub_master', configuration 'Debug|Win32'
+17>------ Clean started: Project: broker_monitor, Configuration: Debug Win32 ------
+17>Deleting intermediate and output files for project 'broker_monitor', configuration 'Debug|Win32'
+18>------ Clean started: Project: migrate_r30, Configuration: Debug Win32 ------
+18>Deleting intermediate and output files for project 'migrate_r30', configuration 'Debug|Win32'
+19>------ Clean started: Project: cubrid_esql, Configuration: Debug Win32 ------
+19>Deleting intermediate and output files for project 'cubrid_esql', configuration 'Debug|Win32'
+20>------ Clean started: Project: cubrid_rel, Configuration: Debug Win32 ------
+20>Deleting intermediate and output files for project 'cubrid_rel', configuration 'Debug|Win32'
+21>------ Clean started: Project: broker_log_runner, Configuration: Debug Win32 ------
+21>Deleting intermediate and output files for project 'broker_log_runner', configuration 'Debug|Win32'
+22>------ Clean started: Project: libesql, Configuration: Debug Win32 ------
+22>Deleting intermediate and output files for project 'libesql', configuration 'Debug|Win32'
+23>------ Clean started: Project: cub_admin, Configuration: Debug Win32 ------
+23>Deleting intermediate and output files for project 'cub_admin', configuration 'Debug|Win32'
+24>------ Clean started: Project: cubrid, Configuration: Debug Win32 ------
+24>Deleting intermediate and output files for project 'cubrid', configuration 'Debug|Win32'
+25>------ Clean started: Project: csql, Configuration: Debug Win32 ------
+25>Deleting intermediate and output files for project 'csql', configuration 'Debug|Win32'
+26>------ Clean started: Project: gencat, Configuration: Debug Win32 ------
+26>Deleting intermediate and output files for project 'gencat', configuration 'Debug|Win32'
+27>------ Clean started: Project: libcubrid, Configuration: Debug Win32 ------
+27>Deleting intermediate and output files for project 'libcubrid', configuration 'Debug|Win32'
+28>------ Clean started: Project: cubridsa, Configuration: Debug Win32 ------
+28>Deleting intermediate and output files for project 'cubridsa', configuration 'Debug|Win32'
+29>------ Clean started: Project: brokeradmin, Configuration: Debug Win32 ------
+29>Deleting intermediate and output files for project 'brokeradmin', configuration 'Debug|Win32'
+30>------ Clean started: Project: cas_cci, Configuration: Debug Win32 ------
+30>Deleting intermediate and output files for project 'cas_cci', configuration 'Debug|Win32'
+31>------ Clean started: Project: cubridcs, Configuration: Debug Win32 ------
+31>Deleting intermediate and output files for project 'cubridcs', configuration 'Debug|Win32'
+32>------ Clean started: Project: libcas, Configuration: Debug Win32 ------
+32>Deleting intermediate and output files for project 'libcas', configuration 'Debug|Win32'
+========== Clean: 32 succeeded, 0 failed, 0 skipped ==========
+
+1>------ Clean started: Project: install_client, Configuration: Debug Win32 ------
+1>Performing Makefile project actions
+1>Microsoft (R) Program Maintenance Utility Version 9.00.30729.01
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1> if exist d:\beta\project\win\install\CUBRID_Debug_Win32 cmd /c rmdir d:\beta\project\win\install\CUBRID_Debug_Win32 /s /q
+2>------ Clean started: Project: CUBRIDProvider, Configuration: Debug Win32 ------
+2>Deleting intermediate and output files for project 'CUBRIDProvider', configuration 'Debug|Win32'
+3>------ Clean started: Project: cubrid_odbc, Configuration: Debug Win32 ------
+3>Deleting intermediate and output files for project 'cubrid_odbc', configuration 'Debug|Win32'
+4>------ Clean started: Project: ctrlservice, Configuration: Debug Win32 ------
+4>Deleting intermediate and output files for project 'ctrlservice', configuration 'Debug|Win32'
+5>------ Clean started: Project: setupmanage, Configuration: Debug Win32 ------
+5>Deleting intermediate and output files for project 'setupmanage', configuration 'Debug|Win32'
+6>------ Clean started: Project: cubridservice, Configuration: Debug Win32 ------
+6>Deleting intermediate and output files for project 'cubridservice', configuration 'Debug|Win32'
+7>------ Clean started: Project: cubridtray, Configuration: Debug Win32 ------
+7>Deleting intermediate and output files for project 'cubridtray', configuration 'Debug|Win32'
+========== Clean: 7 succeeded, 0 failed, 0 skipped ==========
+
+1>------ Clean started: Project: convert_password, Configuration: Debug Win32 ------
+1>Deleting intermediate and output files for project 'convert_password', configuration 'Debug|Win32'
+========== Clean: 1 succeeded, 0 failed, 0 skipped ==========
+
+1>------ Clean started: Project: get_disk_compat, Configuration: Debug Win32 ------
+1>Deleting intermediate and output files for project 'get_disk_compat', configuration 'Debug|Win32'
+========== Clean: 1 succeeded, 0 failed, 0 skipped ==========
+
+1>------ Build started: Project: libcas, Configuration: Debug Win32 ------
+2>------ Build started: Project: cas_cci, Configuration: Debug Win32 ------
+1>Compiling...
+2>Compiling...
+1>broker_filename.c
+2>cci_handle_mng.c
+1>d:\beta\project\src\broker\broker_filename.c(268) : warning C4090: '=' : different 'const' qualifiers
+1>broker_wsa_init.c
+2>cci_net_buf.c
+1>cas.c
+2>cci_network.c
+2>cci_query_execute.c
+2>cci_t_set.c
+2>cci_util.c
+2>cci_wsa_init.c
+2>cas_cci.c
+1>cas_error.c
+2>Generating Code...
+1>cas_execute.c
+2>Creating library...
+2>Build log was saved at "file://d:\beta\project\win\cas_cci\Win32\Debug\BuildLog_cas_cci.htm"
+2>cas_cci - 0 error(s), 0 warning(s)
+3>------ Build started: Project: libcubrid, Configuration: Debug Win32 ------
+3>Compiling...
+3>adjustable_array.c
+1>cas_function.c
+3>area_alloc.c
+1>cas_handle.c
+1>d:\beta\project\src\broker\cas_handle.c(365) : warning C4018: '>=' : signed/unsigned mismatch
+1>cas_log.c
+1>cas_net_buf.c
+1>d:\beta\project\src\broker\cas_net_buf.c(108) : warning C4018: '<' : signed/unsigned mismatch
+1>d:\beta\project\src\broker\cas_net_buf.c(348) : warning C4018: '<' : signed/unsigned mismatch
+3>chartype.c
+1>cas_network.c
+3>condition_handler.c
+1>cas_schema_info.c
+3>databases_file.c
+1>cas_sql_log2.c
+3>encryption.c
+1>cas_str_like.c
+3>environment_variable.c
+1>cas_util.c
+3>error_manager.c
+1>cas_xa.c
+1>getopt_long.c
+3>fixed_alloc.c
+1>Generating Code...
+3>ini_parser.c
+3>intl_support.c
+1>Creating library...
+1>Build log was saved at "file://d:\beta\project\win\libcas\Win32\Debug\BuildLog_libcas.htm"
+1>libcas - 0 error(s), 4 warning(s)
+3>language_support.c
+4>------ Build started: Project: cubridcs, Configuration: Debug Win32 ------
+4>Compiling...
+4>adjustable_array.c
+4>area_alloc.c
+3>memory_alloc.c
+4>chartype.c
+3>memory_hash.c
+4>cluster_config.c
+3>message_catalog.c
+4>condition_handler.c
+3>misc_string.c
+4>databases_file.c
+4>encryption.c
+3>object_representation_sr.c
+4>environment_variable.c
+4>error_manager.c
+3>perf_monitor.c
+4>fixed_alloc.c
+3>porting.c
+4>getopt_long.c
+3>d:\beta\project\src\base\porting.c(858) : warning C4018: '>' : signed/unsigned mismatch
+3>d:\beta\project\src\base\porting.c(924) : warning C4018: '>' : signed/unsigned mismatch
+3>d:\beta\project\src\base\porting.c(1253) : warning C4018: '>' : signed/unsigned mismatch
+3>rand.c
+4>ini_parser.c
+3>Generating Code...
+4>intl_support.c
+3>Compiling...
+3>release_string.c
+4>language_support.c
+3>sha1.c
+3>stack_dump.c
+3>stringl.c
+4>memory_alloc.c
+3>system_parameter.c
+4>memory_hash.c
+3>util_func.c
+4>message_catalog.c
+3>network.c
+4>misc_string.c
+4>perf_monitor.c
+3>network_interface_s2s.c
+4>porting.c
+3>network_interface_sr.c
+4>d:\beta\project\src\base\porting.c(858) : warning C4018: '>' : signed/unsigned mismatch
+4>d:\beta\project\src\base\porting.c(924) : warning C4018: '>' : signed/unsigned mismatch
+4>d:\beta\project\src\base\porting.c(1253) : warning C4018: '>' : signed/unsigned mismatch
+4>Generating Code...
+4>Compiling...
+4>rand.c
+4>release_string.c
+3>network_s2s.c
+4>sha1.c
+4>stack_dump.c
+4>stringl.c
+3>network_sr.c
+4>system_parameter.c
+3>cnv.c
+4>util_func.c
+4>variable_string.c
+3>d:\beta\project\src\compat\cnv.c(2494) : warning C4018: '<' : signed/unsigned mismatch
+3>cnvlex.c
+4>cnv.c
+3>db_date.c
+4>d:\beta\project\src\compat\cnv.c(2494) : warning C4018: '<' : signed/unsigned mismatch
+4>cnvlex.c
+3>db_macro.c
+4>db_admin.c
+3>db_set.c
+4>db_class.c
+3>connection_globals.c
+3>connection_list_sr.c
+4>db_date.c
+3>connection_sr.c
+4>db_info.c
+3>connection_support.c
+4>db_macro.c
+3>Generating Code...
+4>db_obj.c
+3>Compiling...
+3>server_support.c
+4>db_old.c
+3>wintcp.c
+4>db_query.c
+3>jsp_sr.c
+3>lea_heap.c
+4>db_set.c
+3>d:\beta\project\src\heaplayers\malloc_2_8_3.c(5012) : warning C4133: 'initializing' : incompatible types - from 'char *' to 'MMAP_TRACE_H *'
+3>object_domain.c
+4>db_temp.c
+3>object_primitive.c
+4>Generating Code...
+4>Compiling...
+4>db_vdb.c
+3>object_print.c
+3>object_representation.c
+4>db_virt.c
+3>set_object.c
+4>client_support.c
+4>connection_cl.c
+3>transform.c
+4>d:\beta\project\src\connection\connection_cl.c(1531) : warning C4101: 'nbytes' : unreferenced local variable
+4>connection_globals.c
+3>parse_tree.c
+4>connection_less.c
+3>arithmetic.c
+4>connection_list_cl.c
+4>connection_support.c
+3>fetch.c
+4>wintcp.c
+3>list_file.c
+4>jsp_cl.c
+3>method_scan.c
+4>network.c
+4>network_cl.c
+3>numeric_opfunc.c
+4>network_interface_cl.c
+3>query_dump.c
+3>query_evaluator.c
+4>authenticate.c
+4>class_object.c
+3>query_executor.c
+4>d:\beta\project\src\object\class_object.c(5725) : warning C4090: 'function' : different 'const' qualifiers
+4>d:\beta\project\src\object\class_object.c(5728) : warning C4090: 'function' : different 'const' qualifiers
+4>d:\beta\project\src\object\class_object.c(5741) : warning C4090: 'function' : different 'const' qualifiers
+4>d:\beta\project\src\object\class_object.c(5746) : warning C4090: 'function' : different 'const' qualifiers
+4>elo_class.c
+3>query_manager.c
+4>elo_holder.c
+3>Generating Code...
+4>elo_recovery.c
+3>Compiling...
+3>query_opfunc.c
+4>esm_class.c
+3>remote_query.c
+4>fbo_class.c
+4>Generating Code...
+3>scan_manager.c
+4>Compiling...
+4>glo_class.c
+3>serial.c
+4>d:\beta\project\src\object\glo_class.c(976) : warning C4244: '=' : conversion from 'INT64' to 'int', possible loss of data
+4>object_accessor.c
+3>set_scan.c
+4>object_domain.c
+3>stream_to_xasl.c
+4>object_primitive.c
+3>string_opfunc.c
+4>object_print.c
+3>d:\beta\project\src\query\string_opfunc.c(8068) : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+3>d:\beta\project\src\query\string_opfunc.c(17268) : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+3>xasl_to_stream.c
+4>object_representation.c
+3>btree.c
+4>object_template.c
+3>btree_load.c
+4>quick_fit.c
+4>schema_manager.c
+3>catalog_class.c
+4>d:\beta\project\src\object\schema_manager.c(14933) : warning C4090: '=' : different 'const' qualifiers
+4>schema_template.c
+3>compactdb_sr.c
+4>set_object.c
+3>disk_manager.c
+4>transform.c
+3>d:\beta\project\src\storage\disk_manager.c(2152) : warning C4090: 'function' : different 'const' qualifiers
+3>d:\beta\project\src\storage\disk_manager.c(2177) : warning C4090: 'function' : different 'const' qualifiers
+3>extendible_hash.c
+4>transform_cl.c
+3>external_sort.c
+4>trigger_manager.c
+3>file_io.c
+4>virtual_object.c
+3>d:\beta\project\src\storage\file_io.c(2514) : warning C4090: 'function' : different 'const' qualifiers
+3>d:\beta\project\src\storage\file_io.c(2713) : warning C4090: '=' : different 'const' qualifiers
+3>d:\beta\project\src\storage\file_io.c(7778) : warning C4244: '=' : conversion from 'INT64' to 'int', possible loss of data
+3>d:\beta\project\src\storage\file_io.c(7795) : warning C4244: '=' : conversion from 'INT64' to 'int', possible loss of data
+3>d:\beta\project\src\storage\file_io.c(9866) : warning C4244: '=' : conversion from 'INT64' to 'int', possible loss of data
+3>d:\beta\project\src\storage\file_io.c(9868) : warning C4244: '=' : conversion from 'INT64' to 'int', possible loss of data
+3>d:\beta\project\src\storage\file_io.c(9926) : warning C4244: '=' : conversion from 'INT64' to 'int', possible loss of data
+3>file_manager.c
+4>work_space.c
+3>heap_file.c
+4>plan_generation.c
+3>d:\beta\project\src\storage\heap_file.c(3584) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+3>large_object.c
+4>query_bitset.c
+3>large_object_directory.c
+4>query_graph.c
+3>Generating Code...
+4>query_planner.c
+3>Compiling...
+3>oid.c
+4>Generating Code...
+3>overflow_file.c
+3>page_buffer.c
+4>Compiling...
+4>query_rewrite.c
+3>slotted_page.c
+4>cnf.c
+3>statistics_sr.c
+4>compile.c
+3>storage_common.c
+4>csql_grammar.c
+3>system_catalog.c
+4>../../src/parser/csql_grammar.c(25023) : warning C4013: 'csql_yylex' undefined; assuming extern returning int
+4>double_byte_support.c
+3>boot_sr.c
+4>keyword.c
+3>d:\beta\project\src\transaction\boot_sr.c(637) : warning C4090: 'function' : different 'const' qualifiers
+3>d:\beta\project\src\transaction\boot_sr.c(780) : warning C4090: 'function' : different 'const' qualifiers
+3>locator.c
+4>method_transform.c
+3>locator_sr.c
+4>name_resolution.c
+3>lock_manager.c
+4>parse_dbi.c
+3>lock_table.c
+4>parse_evaluate.c
+3>log_2pc.c
+4>parse_tree.c
+3>log_comm.c
+4>parse_tree_cl.c
+3>log_compress.c
+3>log_global.c
+4>parser_support.c
+3>log_manager.c
+4>query_result.c
+3>d:\beta\project\src\transaction\log_manager.c(10621) : warning C4090: 'function' : different 'const' qualifiers
+3>log_page_buffer.c
+4>scanner_support.c
+4>semantic_check.c
+3>d:\beta\project\src\transaction\log_page_buffer.c(8854) : warning C4090: 'function' : different 'const' qualifiers
+3>d:\beta\project\src\transaction\log_page_buffer.c(9714) : warning C4090: 'function' : different 'const' qualifiers
+3>log_recovery.c
+3>log_tran_table.c
+4>type_checking.c
+3>Generating Code...
+4>view_transform.c
+3>Compiling...
+3>log_writer.c
+4>xasl_generation.c
+3>recovery.c
+4>d:\beta\project\src\parser\xasl_generation.c(13158) : warning C4018: '>' : signed/unsigned mismatch
+4>arithmetic.c
+3>replication.c
+4>Generating Code...
+3>transaction_sr.c
+3>wait_for_graph.c
+3>critical_section.c
+4>Compiling...
+4>cursor.c
+3>thread.c
+4>execute_schema.c
+3>Generating Code...
+3>Compiling...
+3>customheaps.cpp
+4>d:\beta\project\src\query\execute_schema.c(9507) : warning C4090: '=' : different 'const' qualifiers
+4>d:\beta\project\src\query\execute_schema.c(9565) : warning C4090: '=' : different 'const' qualifiers
+4>d:\beta\project\src\query\execute_schema.c(10856) : warning C4090: 'function' : different 'const' qualifiers
+4>execute_statement.c
+3>d:\beta\project\src\heaplayers\spinlock.h(70) : warning C4005: '_WIN32_WINNT' : macro redefinition
+3>        c:\program files\microsoft sdks\windows\v6.0a\include\sdkddkver.h(151) : see previous definition of '_WIN32_WINNT'
+4>numeric_opfunc.c
+4>query.c
+4>query_dump.c
+3>d:\beta\project\src\heaplayers\obstackheap.h(301) : warning C4355: 'this' : used in base member initializer list
+3>        d:\beta\project\src\heaplayers\obstackheap.h(301) : while compiling class template member function 'HL::ObstackHeap<ChunkSize,SuperHeap>::ChunkHeader::ChunkHeader(HL::ObstackHeap<ChunkSize,SuperHeap>::ChunkHeader *,size_t)'
+3>        with
+3>        [
+3>            ChunkSize=0,
+3>            SuperHeap=HL::mallocHeap
+3>        ]
+3>        d:\beta\project\src\heaplayers\obstackheap.h(69) : see reference to class template instantiation 'HL::ObstackHeap<ChunkSize,SuperHeap>::ChunkHeader' being compiled
+3>        with
+3>        [
+3>            ChunkSize=0,
+3>            SuperHeap=HL::mallocHeap
+3>        ]
+3>        d:\beta\project\src\heaplayers\obstackheap.h(63) : while compiling class template member function 'HL::ObstackHeap<ChunkSize,SuperHeap>::~ObstackHeap(void)'
+3>        with
+3>        [
+3>            ChunkSize=0,
+3>            SuperHeap=HL::mallocHeap
+3>        ]
+3>        d:\beta\project\src\heaplayers\sizeheap.h(50) : see reference to class template instantiation 'HL::ObstackHeap<ChunkSize,SuperHeap>' being compiled
+3>        with
+3>        [
+3>            ChunkSize=0,
+3>            SuperHeap=HL::mallocHeap
+3>        ]
+3>        d:\beta\project\src\heaplayers\sizeheap.h(72) : see reference to class template instantiation 'HL::UseSizeHeap<Super>' being compiled
+3>        with
+3>        [
+3>            Super=HL::ObstackHeap<0,HL::mallocHeap>
+3>        ]
+3>        d:\beta\project\src\heaplayers\customheaps.cpp(71) : see reference to class template instantiation 'HL::SizeHeap<SuperHeap>' being compiled
+3>        with
+3>        [
+3>            SuperHeap=HL::ObstackHeap<0,HL::mallocHeap>
+3>        ]
+3>Linking...
+4>query_method.c
+4>string_opfunc.c
+3>   Creating library D:\beta\project\win\Win32\Debug\libcubrid.lib and object D:\beta\project\win\Win32\Debug\libcubrid.exp
+4>d:\beta\project\src\query\string_opfunc.c(8068) : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+3>gc_debug.lib(alloc.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+3>gc_debug.lib(reclaim.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+3>gc_debug.lib(allchblk.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+3>gc_debug.lib(misc.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+3>gc_debug.lib(mach_dep.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+3>gc_debug.lib(os_dep.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>d:\beta\project\src\query\string_opfunc.c(17268) : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+3>gc_debug.lib(mark_rts.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+3>gc_debug.lib(headers.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+3>gc_debug.lib(mark.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+3>gc_debug.lib(obj_map.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+3>gc_debug.lib(blacklst.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+3>gc_debug.lib(finalize.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+3>gc_debug.lib(new_hblk.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+3>gc_debug.lib(malloc.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+3>gc_debug.lib(stubborn.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+3>gc_debug.lib(dyn_load.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+3>gc_debug.lib(gc_cpp.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+3>gc_debug.lib(mallocx.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>xasl_to_stream.c
+3>Embedding manifest...
+4>file_io.c
+4>d:\beta\project\src\storage\file_io.c(2514) : warning C4090: 'function' : different 'const' qualifiers
+4>d:\beta\project\src\storage\file_io.c(2713) : warning C4090: '=' : different 'const' qualifiers
+4>oid.c
+3>Build log was saved at "file://d:\beta\project\win\libcubrid\Win32\Debug\BuildLog_libcubrid.htm"
+3>libcubrid - 0 error(s), 42 warning(s)
+4>statistics_cl.c
+5>------ Build started: Project: cubridsa, Configuration: Debug Win32 ------
+4>storage_common.c
+5>Compiling...
+5>cnv.c
+4>boot_cl.c
+5>d:\beta\project\src\compat\cnv.c(2494) : warning C4018: '<' : signed/unsigned mismatch
+5>cnvlex.c
+4>locator.c
+5>db_admin.c
+4>locator_cl.c
+5>db_class.c
+4>lock_table.c
+5>db_date.c
+4>log_comm.c
+4>log_compress.c
+5>db_info.c
+4>log_writer.c
+5>db_macro.c
+4>Generating Code...
+5>db_obj.c
+4>Compiling...
+4>recovery_cl.c
+5>db_old.c
+4>transaction_cl.c
+5>db_query.c
+4>compactdb_cl.c
+5>db_set.c
+4>csql.c
+5>db_temp.c
+4>csql_result.c
+5>db_vdb.c
+4>csql_result_format.c
+5>db_virt.c
+4>csql_session.c
+5>client_support.c
+4>csql_support.c
+5>connection_cl.c
+5>d:\beta\project\src\connection\connection_cl.c(1531) : warning C4101: 'nbytes' : unreferenced local variable
+5>connection_globals.c
+4>file_hash.c
+5>connection_less.c
+4>load_object.c
+5>connection_list_cl.c
+4>d:\beta\project\src\executables\load_object.c(1669) : warning C4244: '=' : conversion from 'INT64' to 'int', possible loss of data
+4>loaddb.c
+5>connection_support.c
+5>Generating Code...
+4>loader.c
+5>Compiling...
+5>wintcp.c
+4>loader_grammar.c
+4>c:\program files\microsoft sdks\windows\v6.0a\include\winerror.h(116) : warning C4005: 'NO_ERROR' : macro redefinition
+4>        d:\beta\project\src\base\error_code.h(41) : see previous definition of 'NO_ERROR'
+5>arithmetic.c
+4>../../src/executables/loader_grammar.c(415) : warning C4273: 'malloc' : inconsistent dll linkage
+4>        c:\program files\microsoft visual studio 9.0\vc\include\stdlib.h(601) : see previous definition of 'malloc'
+4>../../src/executables/loader_grammar.c(422) : warning C4273: 'free' : inconsistent dll linkage
+4>        c:\program files\microsoft visual studio 9.0\vc\include\stdlib.h(600) : see previous definition of 'free'
+4>../../src/executables/loader_grammar.y(847) : warning C4090: '=' : different 'const' qualifiers
+4>loader_object_table.c
+5>cursor.c
+4>unload_object.c
+5>execute_schema.c
+4>d:\beta\project\src\executables\unload_object.c(1231) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+4>d:\beta\project\src\executables\unload_object.c(1256) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+4>d:\beta\project\src\executables\unload_object.c(1391) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+4>unload_schema.c
+5>d:\beta\project\src\query\execute_schema.c(9507) : warning C4090: '=' : different 'const' qualifiers
+5>d:\beta\project\src\query\execute_schema.c(9565) : warning C4090: '=' : different 'const' qualifiers
+5>d:\beta\project\src\query\execute_schema.c(10856) : warning C4090: 'function' : different 'const' qualifiers
+5>execute_statement.c
+4>unloaddb.c
+5>fetch.c
+4>util_common.c
+5>list_file.c
+4>d:\beta\project\src\executables\util_common.c(330) : warning C4090: '=' : different 'const' qualifiers
+4>util_cs.c
+5>method_scan.c
+4>Generating Code...
+4>Compiling...
+4>customheaps.cpp
+5>numeric_opfunc.c
+5>query.c
+4>d:\beta\project\src\heaplayers\spinlock.h(70) : warning C4005: '_WIN32_WINNT' : macro redefinition
+4>        c:\program files\microsoft sdks\windows\v6.0a\include\sdkddkver.h(151) : see previous definition of '_WIN32_WINNT'
+5>query_dump.c
+5>query_evaluator.c
+4>d:\beta\project\src\heaplayers\obstackheap.h(301) : warning C4355: 'this' : used in base member initializer list
+4>        d:\beta\project\src\heaplayers\obstackheap.h(301) : while compiling class template member function 'HL::ObstackHeap<ChunkSize,SuperHeap>::ChunkHeader::ChunkHeader(HL::ObstackHeap<ChunkSize,SuperHeap>::ChunkHeader *,size_t)'
+4>        with
+4>        [
+4>            ChunkSize=0,
+4>            SuperHeap=HL::mallocHeap
+4>        ]
+4>        d:\beta\project\src\heaplayers\obstackheap.h(69) : see reference to class template instantiation 'HL::ObstackHeap<ChunkSize,SuperHeap>::ChunkHeader' being compiled
+4>        with
+4>        [
+4>            ChunkSize=0,
+4>            SuperHeap=HL::mallocHeap
+4>        ]
+4>        d:\beta\project\src\heaplayers\obstackheap.h(63) : while compiling class template member function 'HL::ObstackHeap<ChunkSize,SuperHeap>::~ObstackHeap(void)'
+4>        with
+4>        [
+4>            ChunkSize=0,
+4>            SuperHeap=HL::mallocHeap
+4>        ]
+4>        d:\beta\project\src\heaplayers\sizeheap.h(50) : see reference to class template instantiation 'HL::ObstackHeap<ChunkSize,SuperHeap>' being compiled
+4>        with
+4>        [
+4>            ChunkSize=0,
+4>            SuperHeap=HL::mallocHeap
+4>        ]
+4>        d:\beta\project\src\heaplayers\sizeheap.h(72) : see reference to class template instantiation 'HL::UseSizeHeap<Super>' being compiled
+4>        with
+4>        [
+4>            Super=HL::ObstackHeap<0,HL::mallocHeap>
+4>        ]
+4>        d:\beta\project\src\heaplayers\customheaps.cpp(71) : see reference to class template instantiation 'HL::SizeHeap<SuperHeap>' being compiled
+4>        with
+4>        [
+4>            SuperHeap=HL::ObstackHeap<0,HL::mallocHeap>
+4>        ]
+4>Generating Code...
+4>Compiling...
+4>lea_heap.c
+5>query_executor.c
+4>d:\beta\project\src\heaplayers\malloc_2_8_3.c(5012) : warning C4133: 'initializing' : incompatible types - from 'char *' to 'MMAP_TRACE_H *'
+4>Generating Code...
+4>Compiling...
+4>csql_lexer.c
+5>query_manager.c
+4>../../src/parser/csql_lexer.c(7502) : warning C4013: 'isatty' undefined; assuming extern returning int
+4>loader_lexer.c
+5>query_opfunc.c
+4>../../src/executables/loader_lexer.c(1849) : warning C4018: '<' : signed/unsigned mismatch
+4>../../src/executables/loader_lexer.l(501) : warning C4090: 'function' : different 'const' qualifiers
+4>../../src/executables/loader_lexer.l(528) : warning C4090: 'function' : different 'const' qualifiers
+4>../../src/executables/loader_lexer.l(556) : warning C4090: 'function' : different 'const' qualifiers
+4>../../src/executables/loader_lexer.l(591) : warning C4090: 'function' : different 'const' qualifiers
+4>../../src/executables/loader_lexer.l(631) : warning C4090: 'function' : different 'const' qualifiers
+4>../../src/executables/loader_lexer.l(684) : warning C4090: 'function' : different 'const' qualifiers
+4>Generating Code...
+4>Linking...
+4>   Creating library D:\beta\project\win\Win32\Debug\cubridcs.lib and object D:\beta\project\win\Win32\Debug\cubridcs.exp
+5>scan_manager.c
+4>work_space.obj : warning LNK4217: locally defined symbol _GC_malloc imported in function _ws_make_mop
+4>work_space.obj : warning LNK4217: locally defined symbol _GC_free imported in function _ws_free_mop
+4>work_space.obj : warning LNK4217: locally defined symbol _GC_disable imported in function _ws_init
+4>work_space.obj : warning LNK4217: locally defined symbol _GC_gcollect imported in function _ws_gc
+4>work_space.obj : warning LNK4217: locally defined symbol _GC_enable imported in function _ws_gc_enable
+4>gc_debug.lib(alloc.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>gc_debug.lib(reclaim.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>gc_debug.lib(allchblk.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>gc_debug.lib(misc.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>gc_debug.lib(mach_dep.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>gc_debug.lib(os_dep.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>gc_debug.lib(mark_rts.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>gc_debug.lib(headers.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>gc_debug.lib(mark.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>gc_debug.lib(obj_map.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>gc_debug.lib(blacklst.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>gc_debug.lib(finalize.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>gc_debug.lib(new_hblk.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>gc_debug.lib(malloc.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>gc_debug.lib(stubborn.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>gc_debug.lib(dyn_load.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>gc_debug.lib(gc_cpp.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+4>gc_debug.lib(mallocx.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\..\win\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>serial.c
+4>Embedding manifest...
+5>set_scan.c
+4>Build log was saved at "file://d:\beta\project\win\cubridcs\Win32\Debug\BuildLog_cubridcs.htm"
+4>cubridcs - 0 error(s), 63 warning(s)
+5>stream_to_xasl.c
+6>------ Build started: Project: brokeradmin, Configuration: Debug Win32 ------
+6>Compiling...
+6>broker_admin_pub.c
+5>string_opfunc.c
+6>d:\beta\project\src\broker\broker_admin_pub.c(1220) : warning C4013: 'conf_get_value_access_mode' undefined; assuming extern returning int
+6>broker_admin_so.c
+6>broker_config.c
+5>d:\beta\project\src\query\string_opfunc.c(8068) : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+5>d:\beta\project\src\query\string_opfunc.c(17268) : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+5>Generating Code...
+6>broker_error.c
+6>broker_filename.c
+6>d:\beta\project\src\broker\broker_filename.c(268) : warning C4090: '=' : different 'const' qualifiers
+5>Compiling...
+5>xasl_to_stream.c
+6>broker_list.c
+6>broker_max_heap.c
+5>adjustable_array.c
+6>broker_process_info.c
+5>area_alloc.c
+6>broker_process_size.c
+6>broker_shm.c
+5>chartype.c
+6>d:\beta\project\src\broker\broker_shm.c(390) : warning C4047: 'function' : 'LPCSTR' differs in levels of indirection from 'char **'
+6>d:\beta\project\src\broker\broker_shm.c(390) : warning C4024: 'OpenMutexA' : different types for formal and actual parameter 3
+6>d:\beta\project\src\broker\broker_shm.c(401) : warning C4047: 'function' : 'char *' differs in levels of indirection from 'char **'
+6>d:\beta\project\src\broker\broker_shm.c(401) : warning C4024: '_snprintf' : different types for formal and actual parameter 1
+6>d:\beta\project\src\broker\broker_shm.c(405) : warning C4047: 'function' : 'LPCSTR' differs in levels of indirection from 'char **'
+6>d:\beta\project\src\broker\broker_shm.c(405) : warning C4024: 'OpenMutexA' : different types for formal and actual parameter 3
+6>broker_util.c
+5>cluster_config.c
+6>broker_wsa_init.c
+5>condition_handler.c
+6>Generating Code...
+6>d:\beta\project\src\broker\broker_shm.c(441) : warning C4715: 'uw_sem_wait' : not all control paths return a value
+6>Linking...
+6>   Creating library D:\beta\project\win\Win32\Debug\brokeradmin.lib and object D:\beta\project\win\Win32\Debug\brokeradmin.exp
+5>databases_file.c
+6>Embedding manifest...
+6>Build log was saved at "file://d:\beta\project\win\brokeradmin\Win32\Debug\BuildLog_brokeradmin.htm"
+6>brokeradmin - 0 error(s), 9 warning(s)
+7>------ Build started: Project: gencat, Configuration: Debug Win32 ------
+7>Compiling...
+5>encryption.c
+7>gencat.c
+7>c:\program files\microsoft sdks\windows\v6.0a\include\winnt.h(11055) : warning C4005: 'SLIST_ENTRY' : macro redefinition
+7>        d:\beta\project\win\gencat\queue.h(179) : see previous definition of 'SLIST_ENTRY'
+5>environment_variable.c
+7>getopt_long.c
+7>Generating Code...
+7>Compiling manifest to resources...
+5>error_manager.c
+7>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+7>Copyright (C) Microsoft Corporation.  All rights reserved.
+7>Linking...
+7>Embedding manifest...
+5>fixed_alloc.c
+7>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+7>Copyright (C) Microsoft Corporation.  All rights reserved.
+7>Build log was saved at "file://d:\beta\project\win\gencat\Win32\Debug\BuildLog_gencat.htm"
+7>gencat - 0 error(s), 1 warning(s)
+5>getopt_long.c
+8>------ Build started: Project: csql, Configuration: Debug Win32 ------
+8>Compiling...
+8>csql_launcher.c
+5>ini_parser.c
+5>intl_support.c
+8>util_support.c
+5>language_support.c
+8>getopt_long.c
+5>memory_alloc.c
+8>Generating Code...
+8>Compiling resources...
+8>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+8>Copyright (C) Microsoft Corporation.  All rights reserved.
+8>Compiling manifest to resources...
+8>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+8>Copyright (C) Microsoft Corporation.  All rights reserved.
+8>Linking...
+8>Embedding manifest...
+5>memory_hash.c
+8>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+8>Copyright (C) Microsoft Corporation.  All rights reserved.
+8>Build log was saved at "file://d:\beta\project\win\csql\Win32\Debug\BuildLog_csql.htm"
+8>csql - 0 error(s), 0 warning(s)
+5>message_catalog.c
+9>------ Build started: Project: cub_admin, Configuration: Debug Win32 ------
+9>Compiling...
+9>util_admin.c
+5>misc_string.c
+9>d:\beta\project\src\executables\util_admin.c(194) : warning C4047: 'initializing' : 'int' differs in levels of indirection from 'void *'
+9>d:\beta\project\src\executables\util_admin.c(219) : warning C4047: 'initializing' : 'int' differs in levels of indirection from 'void *'
+9>d:\beta\project\src\executables\util_admin.c(344) : warning C4047: 'initializing' : 'int' differs in levels of indirection from 'void *'
+9>d:\beta\project\src\executables\util_admin.c(345) : warning C4047: 'initializing' : 'int' differs in levels of indirection from 'void *'
+9>d:\beta\project\src\executables\util_admin.c(346) : warning C4047: 'initializing' : 'int' differs in levels of indirection from 'void *'
+9>d:\beta\project\src\executables\util_admin.c(347) : warning C4047: 'initializing' : 'int' differs in levels of indirection from 'void *'
+9>util_support.c
+5>object_representation_sr.c
+9>getopt_long.c
+5>Generating Code...
+9>Generating Code...
+9>Linking...
+9>Embedding manifest...
+5>Compiling...
+5>perf_monitor.c
+9>Build log was saved at "file://d:\beta\project\win\cub_admin\Win32\Debug\BuildLog_cub_admin.htm"
+9>cub_admin - 0 error(s), 6 warning(s)
+10>------ Build started: Project: libesql, Configuration: Debug Win32 ------
+10>Compiling...
+10>esql_cli.c
+5>porting.c
+5>d:\beta\project\src\base\porting.c(858) : warning C4018: '>' : signed/unsigned mismatch
+5>d:\beta\project\src\base\porting.c(924) : warning C4018: '>' : signed/unsigned mismatch
+5>d:\beta\project\src\base\porting.c(1253) : warning C4018: '>' : signed/unsigned mismatch
+5>rand.c
+10>esql_gadget.c
+5>release_string.c
+10>Generating Code...
+10>Compiling manifest to resources...
+10>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+10>Copyright (C) Microsoft Corporation.  All rights reserved.
+10>Linking...
+5>sha1.c
+5>stack_dump.c
+10>   Creating library D:\beta\project\win\Win32\Debug\libesql.lib and object D:\beta\project\win\Win32\Debug\libesql.exp
+5>stringl.c
+10>Embedding manifest...
+10>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+10>Copyright (C) Microsoft Corporation.  All rights reserved.
+5>system_parameter.c
+10>Build log was saved at "file://d:\beta\project\win\libesql\Win32\Debug\BuildLog.htm"
+10>libesql - 0 error(s), 0 warning(s)
+5>util_func.c
+11>------ Build started: Project: broker_log_runner, Configuration: Debug Win32 ------
+11>Compiling...
+11>getopt_long.c
+5>variable_string.c
+11>broker_log_util.c
+5>jsp_cl.c
+11>cas_runner.c
+11>d:\beta\project\src\broker\cas_runner.c(346) : warning C4022: 'WaitForSingleObject' : pointer mismatch for actual parameter 1
+11>log_top_string.c
+5>jsp_sr.c
+11>Generating Code...
+11>Linking...
+11>Embedding manifest...
+5>lea_heap.c
+11>Build log was saved at "file://d:\beta\project\win\broker_log_runner\Win32\Debug\BuildLog_broker_log_runner.htm"
+11>broker_log_runner - 0 error(s), 1 warning(s)
+5>d:\beta\project\src\heaplayers\malloc_2_8_3.c(5012) : warning C4133: 'initializing' : incompatible types - from 'char *' to 'MMAP_TRACE_H *'
+5>boot_cl.c
+12>------ Build started: Project: cubrid_esql, Configuration: Debug Win32 ------
+12>Compiling...
+12>esql_cursor.c
+5>boot_sr.c
+12>esql_declare.c
+5>d:\beta\project\src\transaction\boot_sr.c(637) : warning C4090: 'function' : different 'const' qualifiers
+5>d:\beta\project\src\transaction\boot_sr.c(780) : warning C4090: 'function' : different 'const' qualifiers
+5>locator.c
+5>locator_cl.c
+12>esql_grammar.c
+5>locator_sr.c
+12>../../src/executables/esql_grammar.c(5984) : warning C4013: 'esql_yylex' undefined; assuming extern returning int
+12>../../src/executables/esql_grammar.y(3587) : warning C4090: 'function' : different 'const' qualifiers
+12>../../src/executables/esql_grammar.y(3724) : warning C4090: 'function' : different 'const' qualifiers
+12>../../src/executables/esql_grammar.y(4037) : warning C4244: '=' : conversion from 'short' to 'char', possible loss of data
+12>esql_hash.c
+12>esql_host_variable.c
+5>lock_manager.c
+12>esql_misc.c
+5>lock_table.c
+5>Generating Code...
+12>esql_symbol_table.c
+5>Compiling...
+5>log_2pc.c
+12>esql_translate.c
+5>log_comm.c
+12>esql_whenever.c
+5>log_compress.c
+12>getopt_long.c
+5>log_global.c
+12>Generating Code...
+5>log_manager.c
+12>Compiling...
+12>esql_lexer.c
+5>d:\beta\project\src\transaction\log_manager.c(10621) : warning C4090: 'function' : different 'const' qualifiers
+5>log_page_buffer.c
+12>/home1/iamyaw/src/cubridcluster.sf.global_schema.yaw/src/executables/esql_lexer.c(1793) : warning C4273: 'isatty' : inconsistent dll linkage
+12>        c:\program files\microsoft visual studio 9.0\vc\include\io.h(312) : see previous definition of 'isatty'
+12>Linking...
+12>Embedding manifest...
+12>Build log was saved at "file://d:\beta\project\win\cubrid_esql\Win32\Debug\BuildLog.htm"
+12>cubrid_esql - 0 error(s), 5 warning(s)
+5>d:\beta\project\src\transaction\log_page_buffer.c(8854) : warning C4090: 'function' : different 'const' qualifiers
+5>d:\beta\project\src\transaction\log_page_buffer.c(9714) : warning C4090: 'function' : different 'const' qualifiers
+5>log_recovery.c
+5>log_tran_table.c
+13>------ Build started: Project: broker_monitor, Configuration: Debug Win32 ------
+13>Compiling...
+13>getopt_long.c
+5>log_writer.c
+13>broker_config.c
+13>broker_filename.c
+5>recovery.c
+13>d:\beta\project\src\broker\broker_filename.c(268) : warning C4090: '=' : different 'const' qualifiers
+13>broker_list.c
+13>broker_max_heap.c
+5>recovery_cl.c
+13>broker_monitor.c
+5>replication.c
+13>d:\beta\project\src\broker\broker_monitor.c(701) : warning C4244: '=' : conversion from 'double' to 'INT64', possible loss of data
+13>d:\beta\project\src\broker\broker_monitor.c(705) : warning C4244: '=' : conversion from 'double' to 'INT64', possible loss of data
+13>d:\beta\project\src\broker\broker_monitor.c(1024) : warning C4244: '=' : conversion from 'double' to 'INT64', possible loss of data
+13>d:\beta\project\src\broker\broker_monitor.c(1025) : warning C4244: '=' : conversion from 'double' to 'INT64', possible loss of data
+13>d:\beta\project\src\broker\broker_monitor.c(1026) : warning C4244: '=' : conversion from 'double' to 'INT64', possible loss of data
+13>d:\beta\project\src\broker\broker_monitor.c(1027) : warning C4244: '=' : conversion from 'double' to 'INT64', possible loss of data
+13>d:\beta\project\src\broker\broker_monitor.c(1028) : warning C4244: '=' : conversion from 'double' to 'INT64', possible loss of data
+13>broker_process_size.c
+5>transaction_cl.c
+13>broker_shm.c
+13>d:\beta\project\src\broker\broker_shm.c(390) : warning C4047: 'function' : 'LPCSTR' differs in levels of indirection from 'char **'
+13>d:\beta\project\src\broker\broker_shm.c(390) : warning C4024: 'OpenMutexA' : different types for formal and actual parameter 3
+13>d:\beta\project\src\broker\broker_shm.c(401) : warning C4047: 'function' : 'char *' differs in levels of indirection from 'char **'
+13>d:\beta\project\src\broker\broker_shm.c(401) : warning C4024: '_snprintf' : different types for formal and actual parameter 1
+13>d:\beta\project\src\broker\broker_shm.c(405) : warning C4047: 'function' : 'LPCSTR' differs in levels of indirection from 'char **'
+13>d:\beta\project\src\broker\broker_shm.c(405) : warning C4024: 'OpenMutexA' : different types for formal and actual parameter 3
+13>broker_util.c
+5>transaction_sr.c
+13>Generating Code...
+13>d:\beta\project\src\broker\broker_shm.c(441) : warning C4715: 'uw_sem_wait' : not all control paths return a value
+13>Linking...
+13>Embedding manifest...
+5>wait_for_graph.c
+5>authenticate.c
+13>Build log was saved at "file://d:\beta\project\win\broker_monitor\Win32\Debug\BuildLog_broker_monitor.htm"
+13>broker_monitor - 0 error(s), 15 warning(s)
+14>------ Build started: Project: cub_master, Configuration: Debug Win32 ------
+14>Compiling...
+14>master.c
+5>class_object.c
+14>master_request.c
+5>d:\beta\project\src\object\class_object.c(5725) : warning C4090: 'function' : different 'const' qualifiers
+5>d:\beta\project\src\object\class_object.c(5728) : warning C4090: 'function' : different 'const' qualifiers
+5>d:\beta\project\src\object\class_object.c(5741) : warning C4090: 'function' : different 'const' qualifiers
+5>d:\beta\project\src\object\class_object.c(5746) : warning C4090: 'function' : different 'const' qualifiers
+5>elo_class.c
+14>master_util.c
+14>Generating Code...
+14>Compiling resources...
+5>elo_holder.c
+14>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+14>Copyright (C) Microsoft Corporation.  All rights reserved.
+14>Linking...
+14>Embedding manifest...
+14>Build log was saved at "file://d:\beta\project\win\cub_master\Win32\Debug\BuildLog_cub_master.htm"
+14>cub_master - 0 error(s), 0 warning(s)
+5>elo_recovery.c
+15>------ Build started: Project: loadjava, Configuration: Debug Win32 ------
+15>Compiling...
+5>Generating Code...
+15>loadjava.c
+15>getopt_long.c
+15>Generating Code...
+15>Linking...
+5>Compiling...
+5>esm_class.c
+15>Embedding manifest...
+15>Build log was saved at "file://d:\beta\project\win\loadjava\Win32\Debug\BuildLog_loadjava.htm"
+15>loadjava - 0 error(s), 0 warning(s)
+5>fbo_class.c
+16>------ Build started: Project: cubrid_broker, Configuration: Debug Win32 ------
+16>Compiling...
+16>broker_admin.c
+5>glo_class.c
+16>broker_admin_pub.c
+5>d:\beta\project\src\object\glo_class.c(976) : warning C4244: '=' : conversion from 'INT64' to 'int', possible loss of data
+5>object_accessor.c
+16>d:\beta\project\src\broker\broker_admin_pub.c(1220) : warning C4013: 'conf_get_value_access_mode' undefined; assuming extern returning int
+16>broker_config.c
+16>broker_error.c
+5>object_domain.c
+16>broker_filename.c
+16>d:\beta\project\src\broker\broker_filename.c(268) : warning C4090: '=' : different 'const' qualifiers
+16>broker_list.c
+5>object_primitive.c
+16>broker_max_heap.c
+16>broker_process_size.c
+5>object_print.c
+16>broker_shm.c
+16>d:\beta\project\src\broker\broker_shm.c(390) : warning C4047: 'function' : 'LPCSTR' differs in levels of indirection from 'char **'
+16>d:\beta\project\src\broker\broker_shm.c(390) : warning C4024: 'OpenMutexA' : different types for formal and actual parameter 3
+16>d:\beta\project\src\broker\broker_shm.c(401) : warning C4047: 'function' : 'char *' differs in levels of indirection from 'char **'
+16>d:\beta\project\src\broker\broker_shm.c(401) : warning C4024: '_snprintf' : different types for formal and actual parameter 1
+16>d:\beta\project\src\broker\broker_shm.c(405) : warning C4047: 'function' : 'LPCSTR' differs in levels of indirection from 'char **'
+16>d:\beta\project\src\broker\broker_shm.c(405) : warning C4024: 'OpenMutexA' : different types for formal and actual parameter 3
+16>broker_util.c
+5>object_representation.c
+16>broker_wsa_init.c
+5>object_template.c
+16>Generating Code...
+16>d:\beta\project\src\broker\broker_shm.c(441) : warning C4715: 'uw_sem_wait' : not all control paths return a value
+16>Linking...
+16>Embedding manifest...
+16>Build log was saved at "file://d:\beta\project\win\cubrid_broker\Win32\Debug\BuildLog_cubrid_broker.htm"
+16>cubrid_broker - 0 error(s), 9 warning(s)
+5>quick_fit.c
+17>------ Build started: Project: cub_commdb, Configuration: Debug Win32 ------
+17>Compiling...
+17>commdb.c
+5>schema_manager.c
+17>master_util.c
+17>util_support.c
+5>d:\beta\project\src\object\schema_manager.c(14933) : warning C4090: '=' : different 'const' qualifiers
+5>schema_template.c
+17>getopt_long.c
+5>set_object.c
+17>Generating Code...
+17>Linking...
+17>Embedding manifest...
+17>Build log was saved at "file://d:\beta\project\win\cub_commdb\Win32\Debug\BuildLog_cub_commdb.htm"
+17>cub_commdb - 0 error(s), 0 warning(s)
+5>transform.c
+18>------ Build started: Project: broker_changer, Configuration: Debug Win32 ------
+18>Compiling...
+5>transform_cl.c
+18>broker_admin_pub.c
+18>d:\beta\project\src\broker\broker_admin_pub.c(1220) : warning C4013: 'conf_get_value_access_mode' undefined; assuming extern returning int
+18>broker_changer.c
+5>trigger_manager.c
+18>broker_config.c
+18>broker_error.c
+5>virtual_object.c
+18>broker_filename.c
+5>work_space.c
+18>d:\beta\project\src\broker\broker_filename.c(268) : warning C4090: '=' : different 'const' qualifiers
+18>broker_list.c
+18>broker_max_heap.c
+5>network_interface_cl.c
+18>broker_process_size.c
+18>broker_shm.c
+5>cnf.c
+18>d:\beta\project\src\broker\broker_shm.c(390) : warning C4047: 'function' : 'LPCSTR' differs in levels of indirection from 'char **'
+18>d:\beta\project\src\broker\broker_shm.c(390) : warning C4024: 'OpenMutexA' : different types for formal and actual parameter 3
+18>d:\beta\project\src\broker\broker_shm.c(401) : warning C4047: 'function' : 'char *' differs in levels of indirection from 'char **'
+18>d:\beta\project\src\broker\broker_shm.c(401) : warning C4024: '_snprintf' : different types for formal and actual parameter 1
+18>d:\beta\project\src\broker\broker_shm.c(405) : warning C4047: 'function' : 'LPCSTR' differs in levels of indirection from 'char **'
+18>d:\beta\project\src\broker\broker_shm.c(405) : warning C4024: 'OpenMutexA' : different types for formal and actual parameter 3
+18>broker_util.c
+18>broker_wsa_init.c
+5>Generating Code...
+18>Generating Code...
+18>d:\beta\project\src\broker\broker_shm.c(441) : warning C4715: 'uw_sem_wait' : not all control paths return a value
+18>Linking...
+18>Embedding manifest...
+5>Compiling...
+5>compile.c
+18>Build log was saved at "file://d:\beta\project\win\broker_changer\Win32\Debug\BuildLog_broker_changer.htm"
+18>broker_changer - 0 error(s), 9 warning(s)
+19>------ Build started: Project: cub_broker, Configuration: Debug Win32 ------
+19>Compiling...
+19>broker.c
+5>csql_grammar.c
+19>d:\beta\project\src\broker\broker.c(1590) : warning C4013: 'access' undefined; assuming extern returning int
+19>broker_access_list.c
+19>broker_error.c
+5>../../src/parser/csql_grammar.c(25023) : warning C4013: 'csql_yylex' undefined; assuming extern returning int
+5>double_byte_support.c
+19>broker_filename.c
+19>d:\beta\project\src\broker\broker_filename.c(268) : warning C4090: '=' : different 'const' qualifiers
+19>broker_list.c
+5>keyword.c
+19>broker_max_heap.c
+5>method_transform.c
+19>broker_process_size.c
+19>broker_shm.c
+5>name_resolution.c
+19>d:\beta\project\src\broker\broker_shm.c(390) : warning C4047: 'function' : 'LPCSTR' differs in levels of indirection from 'char **'
+19>d:\beta\project\src\broker\broker_shm.c(390) : warning C4024: 'OpenMutexA' : different types for formal and actual parameter 3
+19>d:\beta\project\src\broker\broker_shm.c(401) : warning C4047: 'function' : 'char *' differs in levels of indirection from 'char **'
+19>d:\beta\project\src\broker\broker_shm.c(401) : warning C4024: '_snprintf' : different types for formal and actual parameter 1
+19>d:\beta\project\src\broker\broker_shm.c(405) : warning C4047: 'function' : 'LPCSTR' differs in levels of indirection from 'char **'
+19>d:\beta\project\src\broker\broker_shm.c(405) : warning C4024: 'OpenMutexA' : different types for formal and actual parameter 3
+19>broker_util.c
+19>broker_wsa_init.c
+5>parse_dbi.c
+19>Generating Code...
+19>d:\beta\project\src\broker\broker_shm.c(441) : warning C4715: 'uw_sem_wait' : not all control paths return a value
+19>Compiling resources...
+19>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+19>Copyright (C) Microsoft Corporation.  All rights reserved.
+19>Linking...
+5>parse_evaluate.c
+19>Embedding manifest...
+19>Build log was saved at "file://d:\beta\project\win\cub_broker\Win32\Debug\BuildLog_cub_broker.htm"
+19>cub_broker - 0 error(s), 9 warning(s)
+20>------ Build started: Project: broker_log_top, Configuration: Debug Win32 ------
+20>Compiling...
+20>getopt_long.c
+5>parse_tree.c
+20>broker_log_sql_list.c
+5>parse_tree_cl.c
+20>broker_log_time.c
+20>broker_log_top.c
+5>parser_support.c
+20>broker_log_top_tran.c
+20>broker_log_util.c
+5>query_result.c
+20>cas_query_info.c
+20>log_top_string.c
+5>scanner_support.c
+20>Generating Code...
+20>Linking...
+5>semantic_check.c
+20>Embedding manifest...
+20>Build log was saved at "file://d:\beta\project\win\broker_log_top\Win32\Debug\BuildLog_broker_log_top.htm"
+20>broker_log_top - 0 error(s), 0 warning(s)
+5>type_checking.c
+21>------ Build started: Project: broker_log_converter, Configuration: Debug Win32 ------
+21>Compiling...
+21>getopt_long.c
+21>broker_log_converter.c
+5>view_transform.c
+21>broker_log_util.c
+5>xasl_generation.c
+21>log_top_string.c
+21>Generating Code...
+21>Linking...
+21>Embedding manifest...
+5>d:\beta\project\src\parser\xasl_generation.c(13158) : warning C4018: '>' : signed/unsigned mismatch
+5>plan_generation.c
+21>Build log was saved at "file://d:\beta\project\win\broker_log_converter\Win32\Debug\BuildLog_broker_log_converter.htm"
+21>broker_log_converter - 0 error(s), 0 warning(s)
+22>------ Build started: Project: cub_cas, Configuration: Debug Win32 ------
+22>Compiling...
+22>broker_filename.c
+5>query_bitset.c
+22>d:\beta\project\src\broker\broker_filename.c(268) : warning C4090: '=' : different 'const' qualifiers
+22>broker_list.c
+22>broker_shm.c
+5>query_graph.c
+22>d:\beta\project\src\broker\broker_shm.c(390) : warning C4047: 'function' : 'LPCSTR' differs in levels of indirection from 'char **'
+22>d:\beta\project\src\broker\broker_shm.c(390) : warning C4024: 'OpenMutexA' : different types for formal and actual parameter 3
+22>d:\beta\project\src\broker\broker_shm.c(401) : warning C4047: 'function' : 'char *' differs in levels of indirection from 'char **'
+22>d:\beta\project\src\broker\broker_shm.c(401) : warning C4024: '_snprintf' : different types for formal and actual parameter 1
+22>d:\beta\project\src\broker\broker_shm.c(405) : warning C4047: 'function' : 'LPCSTR' differs in levels of indirection from 'char **'
+22>d:\beta\project\src\broker\broker_shm.c(405) : warning C4024: 'OpenMutexA' : different types for formal and actual parameter 3
+22>broker_util.c
+5>Generating Code...
+22>broker_wsa_init.c
+22>cas.c
+22>cas_error.c
+5>Compiling...
+5>query_planner.c
+22>cas_execute.c
+5>query_rewrite.c
+22>cas_function.c
+22>cas_handle.c
+5>btree.c
+22>d:\beta\project\src\broker\cas_handle.c(365) : warning C4018: '>=' : signed/unsigned mismatch
+22>cas_log.c
+5>btree_load.c
+22>cas_net_buf.c
+22>d:\beta\project\src\broker\cas_net_buf.c(108) : warning C4018: '<' : signed/unsigned mismatch
+22>d:\beta\project\src\broker\cas_net_buf.c(348) : warning C4018: '<' : signed/unsigned mismatch
+5>catalog_class.c
+22>cas_network.c
+22>cas_schema_info.c
+5>compactdb_sr.c
+22>cas_sql_log2.c
+5>disk_manager.c
+22>cas_str_like.c
+22>cas_util.c
+5>d:\beta\project\src\storage\disk_manager.c(2152) : warning C4090: 'function' : different 'const' qualifiers
+5>d:\beta\project\src\storage\disk_manager.c(2177) : warning C4090: 'function' : different 'const' qualifiers
+5>extendible_hash.c
+22>cas_xa.c
+5>external_sort.c
+22>Generating Code...
+5>file_io.c
+22>d:\beta\project\src\broker\broker_shm.c(441) : warning C4715: 'uw_sem_wait' : not all control paths return a value
+22>Compiling resources...
+22>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+22>Copyright (C) Microsoft Corporation.  All rights reserved.
+22>Linking...
+5>d:\beta\project\src\storage\file_io.c(2514) : warning C4090: 'function' : different 'const' qualifiers
+5>d:\beta\project\src\storage\file_io.c(2713) : warning C4090: '=' : different 'const' qualifiers
+5>d:\beta\project\src\storage\file_io.c(7778) : warning C4244: '=' : conversion from 'INT64' to 'int', possible loss of data
+5>d:\beta\project\src\storage\file_io.c(7795) : warning C4244: '=' : conversion from 'INT64' to 'int', possible loss of data
+22>Embedding manifest...
+5>d:\beta\project\src\storage\file_io.c(9866) : warning C4244: '=' : conversion from 'INT64' to 'int', possible loss of data
+5>d:\beta\project\src\storage\file_io.c(9868) : warning C4244: '=' : conversion from 'INT64' to 'int', possible loss of data
+5>d:\beta\project\src\storage\file_io.c(9926) : warning C4244: '=' : conversion from 'INT64' to 'int', possible loss of data
+5>file_manager.c
+22>Build log was saved at "file://d:\beta\project\win\cub_cas\Win32\Debug\BuildLog_cub_cas.htm"
+22>cub_cas - 0 error(s), 11 warning(s)
+23>------ Build started: Project: cmstat, Configuration: Debug Win32 ------
+23>Compiling...
+23>cm_broker_admin.c
+5>heap_file.c
+23>cm_broker_jni.c
+23>cm_errmsg.c
+5>d:\beta\project\src\storage\heap_file.c(3584) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+5>large_object.c
+23>cm_mem_cpu_stat.c
+23>cm_utils.c
+5>large_object_directory.c
+23>Generating Code...
+23>Compiling resources...
+5>oid.c
+23>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+23>Copyright (C) Microsoft Corporation.  All rights reserved.
+23>Linking...
+23>   Creating library D:\beta\project\win\Win32\Debug\cmstat.lib and object D:\beta\project\win\Win32\Debug\cmstat.exp
+23>Embedding manifest...
+5>overflow_file.c
+23>Build log was saved at "file://d:\beta\project\win\cmstat\Win32\Debug\BuildLog_cmstat.htm"
+23>cmstat - 0 error(s), 0 warning(s)
+24>------ Build started: Project: cub_server, Configuration: Debug Win32 ------
+24>Compiling...
+24>server.c
+5>page_buffer.c
+24>Compiling resources...
+24>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+24>Copyright (C) Microsoft Corporation.  All rights reserved.
+24>Linking...
+5>slotted_page.c
+24>Embedding manifest...
+24>Build log was saved at "file://d:\beta\project\win\cub_server\Win32\Debug\BuildLog_cub_server.htm"
+24>cub_server - 0 error(s), 0 warning(s)
+25>------ Build started: Project: cascci, Configuration: Debug Win32 ------
+25>Compiling...
+5>statistics_cl.c
+25>cas_cci.c
+25>cci_handle_mng.c
+5>statistics_sr.c
+25>cci_net_buf.c
+5>Generating Code...
+25>cci_network.c
+25>cci_query_execute.c
+5>Compiling...
+5>storage_common.c
+25>cci_t_set.c
+5>system_catalog.c
+25>cci_util.c
+25>cci_wsa_init.c
+5>compactdb.c
+25>Generating Code...
+25>Linking...
+5>csql.c
+25>   Creating library D:\beta\project\win\Win32\Debug\cascci.lib and object D:\beta\project\win\Win32\Debug\cascci.exp
+25>Embedding manifest...
+25>Build log was saved at "file://d:\beta\project\win\cascci\Win32\Debug\BuildLog_cascci.htm"
+25>cascci - 0 error(s), 0 warning(s)
+5>csql_result.c
+26>------ Build started: Project: cmdep, Configuration: Debug Win32 ------
+26>Compiling...
+26>cm_dep_tasks.c
+5>csql_result_format.c
+26>d:\beta\project\src\cm_common\cm_dep_tasks.c(959) : warning C4090: 'function' : different 'const' qualifiers
+26>cm_dstring.c
+26>cm_nameval.c
+26>cm_utils.c
+5>csql_session.c
+26>Generating Code...
+26>Compiling resources...
+26>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+26>Copyright (C) Microsoft Corporation.  All rights reserved.
+26>Linking...
+5>csql_support.c
+26>   Creating library D:\beta\project\win\Win32\Debug\cmdep.lib and object D:\beta\project\win\Win32\Debug\cmdep.exp
+26>Embedding manifest...
+26>Build log was saved at "file://d:\beta\project\win\cmdep\Win32\Debug\BuildLog_cmdep.htm"
+26>cmdep - 0 error(s), 1 warning(s)
+5>file_hash.c
+5>load_object.c
+5>d:\beta\project\src\executables\load_object.c(1669) : warning C4244: '=' : conversion from 'INT64' to 'int', possible loss of data
+5>loaddb.c
+5>loader.c
+5>loader_grammar.c
+5>c:\program files\microsoft sdks\windows\v6.0a\include\winerror.h(116) : warning C4005: 'NO_ERROR' : macro redefinition
+5>        d:\beta\project\src\base\error_code.h(41) : see previous definition of 'NO_ERROR'
+5>../../src/executables/loader_grammar.c(415) : warning C4273: 'malloc' : inconsistent dll linkage
+5>        c:\program files\microsoft visual studio 9.0\vc\include\stdlib.h(601) : see previous definition of 'malloc'
+5>../../src/executables/loader_grammar.c(422) : warning C4273: 'free' : inconsistent dll linkage
+5>        c:\program files\microsoft visual studio 9.0\vc\include\stdlib.h(600) : see previous definition of 'free'
+5>../../src/executables/loader_grammar.y(847) : warning C4090: '=' : different 'const' qualifiers
+5>loader_object_table.c
+5>unload_object.c
+5>d:\beta\project\src\executables\unload_object.c(1231) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+5>d:\beta\project\src\executables\unload_object.c(1256) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+5>d:\beta\project\src\executables\unload_object.c(1391) : warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+5>unload_schema.c
+5>unloaddb.c
+5>util_common.c
+5>d:\beta\project\src\executables\util_common.c(330) : warning C4090: '=' : different 'const' qualifiers
+5>util_cs.c
+5>util_sa.c
+5>Generating Code...
+5>Compiling...
+5>csql_lexer.c
+5>../../src/parser/csql_lexer.c(7502) : warning C4013: 'isatty' undefined; assuming extern returning int
+5>loader_lexer.c
+5>../../src/executables/loader_lexer.c(1849) : warning C4018: '<' : signed/unsigned mismatch
+5>../../src/executables/loader_lexer.l(501) : warning C4090: 'function' : different 'const' qualifiers
+5>../../src/executables/loader_lexer.l(528) : warning C4090: 'function' : different 'const' qualifiers
+5>../../src/executables/loader_lexer.l(556) : warning C4090: 'function' : different 'const' qualifiers
+5>../../src/executables/loader_lexer.l(591) : warning C4090: 'function' : different 'const' qualifiers
+5>../../src/executables/loader_lexer.l(631) : warning C4090: 'function' : different 'const' qualifiers
+5>../../src/executables/loader_lexer.l(684) : warning C4090: 'function' : different 'const' qualifiers
+5>Generating Code...
+5>Compiling...
+5>customheaps.cpp
+5>d:\beta\project\src\heaplayers\spinlock.h(70) : warning C4005: '_WIN32_WINNT' : macro redefinition
+5>        c:\program files\microsoft sdks\windows\v6.0a\include\sdkddkver.h(151) : see previous definition of '_WIN32_WINNT'
+5>d:\beta\project\src\heaplayers\obstackheap.h(301) : warning C4355: 'this' : used in base member initializer list
+5>        d:\beta\project\src\heaplayers\obstackheap.h(301) : while compiling class template member function 'HL::ObstackHeap<ChunkSize,SuperHeap>::ChunkHeader::ChunkHeader(HL::ObstackHeap<ChunkSize,SuperHeap>::ChunkHeader *,size_t)'
+5>        with
+5>        [
+5>            ChunkSize=0,
+5>            SuperHeap=HL::mallocHeap
+5>        ]
+5>        d:\beta\project\src\heaplayers\obstackheap.h(69) : see reference to class template instantiation 'HL::ObstackHeap<ChunkSize,SuperHeap>::ChunkHeader' being compiled
+5>        with
+5>        [
+5>            ChunkSize=0,
+5>            SuperHeap=HL::mallocHeap
+5>        ]
+5>        d:\beta\project\src\heaplayers\obstackheap.h(63) : while compiling class template member function 'HL::ObstackHeap<ChunkSize,SuperHeap>::~ObstackHeap(void)'
+5>        with
+5>        [
+5>            ChunkSize=0,
+5>            SuperHeap=HL::mallocHeap
+5>        ]
+5>        d:\beta\project\src\heaplayers\sizeheap.h(50) : see reference to class template instantiation 'HL::ObstackHeap<ChunkSize,SuperHeap>' being compiled
+5>        with
+5>        [
+5>            ChunkSize=0,
+5>            SuperHeap=HL::mallocHeap
+5>        ]
+5>        d:\beta\project\src\heaplayers\sizeheap.h(72) : see reference to class template instantiation 'HL::UseSizeHeap<Super>' being compiled
+5>        with
+5>        [
+5>            Super=HL::ObstackHeap<0,HL::mallocHeap>
+5>        ]
+5>        d:\beta\project\src\heaplayers\customheaps.cpp(71) : see reference to class template instantiation 'HL::SizeHeap<SuperHeap>' being compiled
+5>        with
+5>        [
+5>            SuperHeap=HL::ObstackHeap<0,HL::mallocHeap>
+5>        ]
+5>Linking...
+5>   Creating library D:\beta\project\win\Win32\Debug\cubridsa.lib and object D:\beta\project\win\Win32\Debug\cubridsa.exp
+5>work_space.obj : warning LNK4217: locally defined symbol _GC_malloc imported in function _ws_make_mop
+5>work_space.obj : warning LNK4217: locally defined symbol _GC_free imported in function _ws_free_mop
+5>work_space.obj : warning LNK4217: locally defined symbol _GC_disable imported in function _ws_init
+5>work_space.obj : warning LNK4217: locally defined symbol _GC_gcollect imported in function _ws_gc
+5>work_space.obj : warning LNK4217: locally defined symbol _GC_enable imported in function _ws_gc_enable
+5>gc_debug.lib(alloc.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>gc_debug.lib(reclaim.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>gc_debug.lib(allchblk.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>gc_debug.lib(misc.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>gc_debug.lib(mach_dep.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>gc_debug.lib(os_dep.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>gc_debug.lib(mark_rts.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>gc_debug.lib(headers.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>gc_debug.lib(mark.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>gc_debug.lib(obj_map.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>gc_debug.lib(blacklst.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>gc_debug.lib(finalize.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>gc_debug.lib(new_hblk.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>gc_debug.lib(malloc.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>gc_debug.lib(stubborn.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>gc_debug.lib(dyn_load.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>gc_debug.lib(gc_cpp.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>gc_debug.lib(mallocx.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with '..\external\lib\gc_debug.lib' or at 'D:\beta\project\win\Win32\Debug\vc90.pdb'; linking object as if no debug info
+5>Embedding manifest...
+5>Build log was saved at "file://d:\beta\project\win\cubridsa\Win32\Debug\BuildLog_cubridsa.htm"
+5>cubridsa - 0 error(s), 76 warning(s)
+27>------ Build started: Project: cubrid, Configuration: Debug Win32 ------
+28>------ Build started: Project: cubrid_rel, Configuration: Debug Win32 ------
+28>Compiling...
+27>Compiling...
+28>cubrid_version.c
+27>util_service.c
+27>d:\beta\project\src\executables\util_service.c(1266) : warning C4090: 'function' : different 'const' qualifiers
+27>util_support.c
+27>getopt_long.c
+27>Generating Code...
+28>Linking...
+27>Linking...
+28>Embedding manifest...
+27>Embedding manifest...
+28>Build log was saved at "file://d:\beta\project\win\cubrid_rel\Win32\Debug\BuildLog_cubrid_rel.htm"
+28>cubrid_rel - 0 error(s), 0 warning(s)
+27>Build log was saved at "file://d:\beta\project\win\cubrid\Win32\Debug\BuildLog_cubrid.htm"
+27>cubrid - 0 error(s), 1 warning(s)
+29>------ Build started: Project: migrate_r30, Configuration: Debug Win32 ------
+29>Compiling...
+29>migrate.c
+29>d:\beta\project\src\executables\migrate.c(1230) : warning C4244: '=' : conversion from 'INT64' to 'int', possible loss of data
+30>------ Build started: Project: cub_sainfo, Configuration: Debug Win32 ------
+30>Compiling...
+29>Linking...
+30>cm_trigger_info_sa.c
+29>Embedding manifest...
+29>Build log was saved at "file://d:\beta\project\win\migrate\Win32\Debug\BuildLog_migrate_r30.htm"
+29>migrate_r30 - 0 error(s), 1 warning(s)
+30>Linking...
+31>------ Build started: Project: cub_jobsa, Configuration: Debug Win32 ------
+31>Compiling...
+30>Embedding manifest...
+31>cm_class_info_sa.c
+30>Build log was saved at "file://d:\beta\project\win\cub_sainfo\Win32\Debug\BuildLog_cub_sainfo.htm"
+30>cub_sainfo - 0 error(s), 0 warning(s)
+31>Linking...
+31>Embedding manifest...
+31>Build log was saved at "file://d:\beta\project\win\cub_jobsa\Win32\Debug\BuildLog_cub_jobsa.htm"
+31>cub_jobsa - 0 error(s), 0 warning(s)
+32>------ Build started: Project: install, Configuration: Debug Win32 ------
+32>Performing Makefile project actions
+32>Microsoft (R) Program Maintenance Utility Version 9.00.30729.01
+32>Copyright (C) Microsoft Corporation.  All rights reserved.
+32> cmd /C .\\install.bat "D:\beta\project\win\Win32\Debug" "d:\beta\project\win\install\CUBRID_Debug_Win32"
+32>已复制         1 个文件。
+32>已复制         1 个文件。
+32>D:\beta\project\win\Win32\Debug\cascci.lib
+32>已复制         1 个文件。
+32>已复制         1 个文件。
+32>已复制         1 个文件。
+32>已复制         1 个文件。
+32>D:\beta\project\win\Win32\Debug\broker_changer.exe
+32>D:\beta\project\win\Win32\Debug\broker_log_converter.exe
+32>D:\beta\project\win\Win32\Debug\broker_log_runner.exe
+32>D:\beta\project\win\Win32\Debug\broker_log_top.exe
+32>D:\beta\project\win\Win32\Debug\broker_monitor.exe
+32>D:\beta\project\win\Win32\Debug\csql.exe
+32>D:\beta\project\win\Win32\Debug\cubrid.exe
+32>D:\beta\project\win\Win32\Debug\cubrid_broker.exe
+32>D:\beta\project\win\Win32\Debug\cubrid_esql.exe
+32>D:\beta\project\win\Win32\Debug\cubrid_rel.exe
+32>D:\beta\project\win\Win32\Debug\cub_admin.exe
+32>D:\beta\project\win\Win32\Debug\cub_broker.exe
+32>D:\beta\project\win\Win32\Debug\cub_cas.exe
+32>D:\beta\project\win\Win32\Debug\cub_commdb.exe
+32>D:\beta\project\win\Win32\Debug\cub_jobsa.exe
+32>D:\beta\project\win\Win32\Debug\cub_master.exe
+32>D:\beta\project\win\Win32\Debug\cub_sainfo.exe
+32>D:\beta\project\win\Win32\Debug\cub_server.exe
+32>D:\beta\project\win\Win32\Debug\loadjava.exe
+32>D:\beta\project\win\Win32\Debug\migrate_r30.exe
+32>已复制        20 个文件。
+32>D:\beta\project\win\Win32\Debug\brokeradmin.dll
+32>D:\beta\project\win\Win32\Debug\cascci.dll
+32>D:\beta\project\win\Win32\Debug\cmdep.dll
+32>D:\beta\project\win\Win32\Debug\cmstat.dll
+32>D:\beta\project\win\Win32\Debug\cubridcs.dll
+32>D:\beta\project\win\Win32\Debug\cubridsa.dll
+32>D:\beta\project\win\Win32\Debug\libcubrid.dll
+32>D:\beta\project\win\Win32\Debug\libesql.dll
+32>已复制         8 个文件。
+32>D:\beta\project\win\Win32\Debug\..\..\external\dll\dbghelp.dll
+32>D:\beta\project\win\Win32\Debug\..\..\external\dll\gc64_dll.dll
+32>已复制         2 个文件。
+32>D:\beta\project\win\Win32\Debug\..\..\..\conf\cubrid.conf
+32>D:\beta\project\win\Win32\Debug\..\..\..\conf\cubrid_broker.conf
+32>已复制         2 个文件。
+32>系统找不到指定的路径。
+32>系统找不到指定的路径。
+32>已复制         1 个文件。
+32>已复制         1 个文件。
+32>已复制         1 个文件。
+32>已复制         1 个文件。
+32>已复制         1 个文件。
+32>已复制         1 个文件。
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\en_US\csql.msg
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\en_US\cubrid.msg
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\en_US\esql.msg
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\en_US\utils.msg
+32>已复制         4 个文件。
+32>已复制         1 个文件。
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\ko_KR.euckr\csql.msg
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\ko_KR.euckr\cubrid.msg
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\ko_KR.euckr\esql.msg
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\ko_KR.euckr\utils.msg
+32>已复制         4 个文件。
+32>已复制         1 个文件。
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\ko_KR.utf8\csql.msg
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\ko_KR.utf8\cubrid.msg
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\ko_KR.utf8\esql.msg
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\ko_KR.utf8\utils.msg
+32>已复制         4 个文件。
+32>已复制         1 个文件。
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\zh_CN.gb2312\csql.msg
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\zh_CN.gb2312\cubrid.msg
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\zh_CN.gb2312\esql.msg
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\zh_CN.gb2312\utils.msg
+32>已复制         4 个文件。
+32>已复制         1 个文件。
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\zh_CN.utf8\csql.msg
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\zh_CN.utf8\cubrid.msg
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\zh_CN.utf8\esql.msg
+32>D:\beta\project\win\Win32\Debug\..\..\..\msg\zh_CN.utf8\utils.msg
+32>已复制         4 个文件。
+32>已复制         1 个文件。
+32>d:\beta\project\win\install>for %f in ("d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\en_US "d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.euckr "d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.utf8 "d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.gb2312 "d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.utf8) do ""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" "%f\csql.cat" "%f\csql.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\en_US\csql.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\en_US\csql.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.euckr\csql.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.euckr\csql.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.utf8\csql.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.utf8\csql.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.gb2312\csql.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.gb2312\csql.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.utf8\csql.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.utf8\csql.msg" 
+32>d:\beta\project\win\install>for %f in ("d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\en_US "d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.euckr "d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.utf8 "d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.gb2312 "d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.utf8) do ""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" "%f\cubrid.cat" "%f\cubrid.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\en_US\cubrid.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\en_US\cubrid.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.euckr\cubrid.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.euckr\cubrid.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.utf8\cubrid.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.utf8\cubrid.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.gb2312\cubrid.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.gb2312\cubrid.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.utf8\cubrid.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.utf8\cubrid.msg" 
+32>D:\beta\project\win\Win32\Debug\..\..\gencat\gencat.exe: neither blank line nor start of a message id on line 1, d:\beta\project\win\install\CUBRID_Debug_Win32\msg\zh_CN.utf8\cubrid.msg
+32>锘
+32>^
+32>d:\beta\project\win\install>for %f in ("d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\en_US "d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.euckr "d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.utf8 "d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.gb2312 "d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.utf8) do ""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" "%f\esql.cat" "%f\esql.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\en_US\esql.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\en_US\esql.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.euckr\esql.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.euckr\esql.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.utf8\esql.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.utf8\esql.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.gb2312\esql.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.gb2312\esql.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.utf8\esql.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.utf8\esql.msg" 
+32>d:\beta\project\win\install>for %f in ("d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\en_US "d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.euckr "d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.utf8 "d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.gb2312 "d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.utf8) do ""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" "%f\utils.cat" "%f\utils.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\en_US\utils.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\en_US\utils.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.euckr\utils.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.euckr\utils.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.utf8\utils.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\ko_KR.utf8\utils.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.gb2312\utils.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.gb2312\utils.msg" 
+32>d:\beta\project\win\install>""D:\beta\project\win\Win32\Debug"\..\..\gencat\gencat.exe" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.utf8\utils.cat" ""d:\beta\project\win\install\CUBRID_Debug_Win32"\msg\zh_CN.utf8\utils.msg" 
+32>Build log was saved at "file://d:\beta\project\win\install\Win32\Debug\BuildLog_install.htm"
+32>install - 0 error(s), 0 warning(s)
+========== Build: 32 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+1>------ Build started: Project: cubridtray, Configuration: Debug Win32 ------
+2>------ Build started: Project: cubridservice, Configuration: Debug Win32 ------
+2>Compiling...
+1>Creating Type Library...
+2>cl : Command line warning D9025 : overriding '/D_UNICODE' with '/U_UNICODE'
+2>cl : Command line warning D9025 : overriding '/DUNICODE' with '/UUNICODE'
+2>stdafx.cpp
+1>Processing ..\..\src\win_tools\cubridtray\cubridtray.odl
+1>cubridtray.odl
+1>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\oaidl.idl
+1>oaidl.idl
+2>Compiling...
+1>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\objidl.idl
+1>objidl.idl
+2>cl : Command line warning D9025 : overriding '/D_UNICODE' with '/U_UNICODE'
+2>cl : Command line warning D9025 : overriding '/DUNICODE' with '/UUNICODE'
+2>cubridservice.cpp
+1>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\unknwn.idl
+1>unknwn.idl
+1>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\wtypes.idl
+1>wtypes.idl
+1>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\basetsd.h
+1>basetsd.h
+1>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\guiddef.h
+1>guiddef.h
+1>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\oaidl.acf
+1>oaidl.acf
+1>Compiling...
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(158) : warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\stdio.h(366) : see declaration of 'sprintf'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(158) : warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\stdlib.h(447) : see declaration of 'getenv'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(229) : warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\stdio.h(366) : see declaration of 'sprintf'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(315) : warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\time.inl(60) : see declaration of 'localtime'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(343) : warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\stdio.h(237) : see declaration of 'fopen'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(350) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\string.h(74) : see declaration of 'strcpy'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(351) : warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\string.h(79) : see declaration of 'strcat'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(356) : warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\stdlib.h(447) : see declaration of 'getenv'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(365) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\string.h(74) : see declaration of 'strcpy'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(366) : warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\string.h(79) : see declaration of 'strcat'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(370) : warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\stdlib.h(447) : see declaration of 'getenv'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(379) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\string.h(74) : see declaration of 'strcpy'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(380) : warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\string.h(79) : see declaration of 'strcat'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(384) : warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\stdlib.h(447) : see declaration of 'getenv'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(393) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\string.h(74) : see declaration of 'strcpy'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(394) : warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\string.h(79) : see declaration of 'strcat'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(398) : warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\stdlib.h(447) : see declaration of 'getenv'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(407) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\string.h(74) : see declaration of 'strcpy'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(408) : warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\string.h(79) : see declaration of 'strcat'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(412) : warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\stdlib.h(447) : see declaration of 'getenv'
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(327) : warning C4101: 'sEnvCUBRID_CAS' : unreferenced local variable
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(328) : warning C4101: 'sEnvCUBRID_MANAGER' : unreferenced local variable
+2>d:\beta\project\src\win_tools\cubridservice\cubridservice.cpp(459) : warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+2>        c:\program files\microsoft visual studio 9.0\vc\include\stdio.h(366) : see declaration of 'sprintf'
+2>Compiling manifest to resources...
+1>StdAfx.cpp
+2>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+2>Copyright (C) Microsoft Corporation.  All rights reserved.
+2>Linking...
+1> WINVER not defined. Defaulting to 0x0600 (Windows Vista)
+2>Embedding manifest...
+2>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+2>Copyright (C) Microsoft Corporation.  All rights reserved.
+2>Build log was saved at "file://d:\beta\project\win\cubridservice\Win32\Debug\BuildLog.htm"
+2>cubridservice - 0 error(s), 27 warning(s)
+3>------ Build started: Project: setupmanage, Configuration: Debug Win32 ------
+3>Compiling...
+3>cl : Command line warning D9025 : overriding '/DUNICODE' with '/UUNICODE'
+3>cl : Command line warning D9025 : overriding '/D_UNICODE' with '/U_UNICODE'
+3>stdafx.cpp
+3>Compiling...
+3>cl : Command line warning D9025 : overriding '/DUNICODE' with '/UUNICODE'
+3>cl : Command line warning D9025 : overriding '/D_UNICODE' with '/U_UNICODE'
+3>PATHREGULATION.CPP
+3>d:\beta\project\src\win_tools\setupmanage\pathregulation.cpp(109) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+3>        c:\program files\microsoft visual studio 9.0\vc\include\string.h(74) : see declaration of 'strcpy'
+3>d:\beta\project\src\win_tools\setupmanage\pathregulation.cpp(190) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+3>        c:\program files\microsoft visual studio 9.0\vc\include\string.h(74) : see declaration of 'strcpy'
+3>setupmanage.cpp
+3>Generating Code...
+3>Compiling manifest to resources...
+3>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>Linking...
+3>Embedding manifest...
+3>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>StdAfx.cpp
+1>Compiling...
+3>Build log was saved at "file://d:\beta\project\win\setupmanage\Win32\Debug\BuildLog.htm"
+3>setupmanage - 0 error(s), 6 warning(s)
+1>Was.cpp
+1>Vas.cpp
+1>UCProperty.cpp
+4>------ Build started: Project: ctrlservice, Configuration: Debug Win32 ------
+4>Compiling...
+1>UCPDetail.cpp
+4>cl : Command line warning D9025 : overriding '/DUNICODE' with '/UUNICODE'
+4>cl : Command line warning D9025 : overriding '/D_UNICODE' with '/U_UNICODE'
+4>stdafx.cpp
+1>UCMInfo.cpp
+1>UCMDetail.cpp
+1>UCconf.cpp
+1>ToolManage.cpp
+4>Compiling...
+1>StopTargetDB.cpp
+1>StartTargetDB.cpp
+4>cl : Command line warning D9025 : overriding '/DUNICODE' with '/UUNICODE'
+4>cl : Command line warning D9025 : overriding '/D_UNICODE' with '/U_UNICODE'
+4>ctrlservice.cpp
+1>Shutdown.cpp
+1>Redirect.cpp
+1>Property.cpp
+1>Process.cpp
+1>ORDBList.cpp
+1>ntray.cpp
+1>ManageRegistry.cpp
+1>Manager.cpp
+1>MainFrm.cpp
+1>lang.cpp
+4>d:\beta\project\src\win_tools\ctrlservice\ctrlservice.cpp(259) : warning C4101: 'err' : unreferenced local variable
+1>Generating Code...
+4>Compiling manifest to resources...
+4>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+4>Copyright (C) Microsoft Corporation.  All rights reserved.
+4>Linking...
+1>Compiling...
+1>folder_dialog.cpp
+1>Filename.cpp
+1>env.cpp
+1>DBStartUp.cpp
+1>CUBRIDtray.cpp
+1>CUBRIDManage.cpp
+4>Embedding manifest...
+1>CommonMethod.cpp
+1>CASManage.cpp
+1>ArchiveLog.cpp
+4>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+4>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>Generating Code...
+1>Compiling resources...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+4>Build log was saved at "file://d:\beta\project\win\ctrlservice\Win32\Debug\BuildLog.htm"
+4>ctrlservice - 0 error(s), 5 warning(s)
+1>Linking...
+1>ArchiveLog.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+5>------ Build started: Project: cubrid_odbc, Configuration: Debug Win32 ------
+5>Compiling...
+5>odbc_util.c
+1>Embedding manifest...
+1>Creating browse information file...
+5>odbc_type.c
+5>odbc_statement.c
+5>odbc_result.c
+5>odbc_number.c
+5>..\..\src\odbc\odbc_number.c(280) : warning C4244: '=' : conversion from 'long' to 'char', possible loss of data
+5>odbc_interface.c
+5>odbc_env.c
+5>odbc_diag_record.c
+5>odbc_descriptor.c
+5>odbc_connection.c
+5>odbc_catalog.c
+1>Microsoft Browse Information Maintenance Utility Version 9.00.21022
+1>Copyright (C) Microsoft Corporation. All rights reserved.
+5>odbc.c
+1>Build log was saved at "file://d:\beta\project\win\cubridtray\Win32\Debug\BuildLog.htm"
+1>cubridtray - 0 error(s), 1 warning(s)
+6>------ Build started: Project: CUBRIDProvider, Configuration: Debug Win32 ------
+6>Performing Pre-Build Event...
+6>Processing ..\..\src\oledb\_CUBRIDProvider.idl
+6>_CUBRIDProvider.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\include\prsht.idl
+5>Generating Code...
+6>prsht.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\wtypes.idl
+6>wtypes.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\basetsd.h
+6>basetsd.h
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\guiddef.h
+6>guiddef.h
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\include\mshtml.idl
+6>mshtml.idl
+5>Compiling resources...
+5>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+5>Copyright (C) Microsoft Corporation.  All rights reserved.
+5>Linking...
+5>Searching libraries
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\odbc32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\odbccp32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\wsock32.lib:
+5>    Searching ..\Win32\Debug\cas_cci.lib:
+5>cas_cci.lib(cas_cci.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\kernel32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\user32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\gdi32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\winspool.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\comdlg32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\advapi32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\shell32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\ole32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\oleaut32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\uuid.lib:
+5>    Searching C:\Program Files\Microsoft Visual Studio 9.0\VC\lib\MSVCRTD.lib:
+5>    Searching C:\Program Files\Microsoft Visual Studio 9.0\VC\lib\OLDNAMES.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\odbc32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\odbccp32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\wsock32.lib:
+5>    Searching ..\Win32\Debug\cas_cci.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\kernel32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\user32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\gdi32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\winspool.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\comdlg32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\advapi32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\shell32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\ole32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\oleaut32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\uuid.lib:
+5>    Searching C:\Program Files\Microsoft Visual Studio 9.0\VC\lib\MSVCRTD.lib:
+5>    Searching C:\Program Files\Microsoft Visual Studio 9.0\VC\lib\OLDNAMES.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\odbc32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\odbccp32.lib:
+5>Finished searching libraries
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\ocidl.idl
+5>   Creating library Win32\Debug\cubrid_odbc.lib and object Win32\Debug\cubrid_odbc.exp
+5>Searching libraries
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\odbc32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\odbccp32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\wsock32.lib:
+5>    Searching ..\Win32\Debug\cas_cci.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\kernel32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\user32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\gdi32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\winspool.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\comdlg32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\advapi32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\shell32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\ole32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\oleaut32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\uuid.lib:
+5>    Searching C:\Program Files\Microsoft Visual Studio 9.0\VC\lib\MSVCRTD.lib:
+5>    Searching C:\Program Files\Microsoft Visual Studio 9.0\VC\lib\OLDNAMES.lib:
+5>Finished searching libraries
+5>Searching libraries
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\odbc32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\odbccp32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\wsock32.lib:
+5>    Searching ..\Win32\Debug\cas_cci.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\kernel32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\user32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\gdi32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\winspool.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\comdlg32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\advapi32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\shell32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\ole32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\oleaut32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\uuid.lib:
+5>    Searching C:\Program Files\Microsoft Visual Studio 9.0\VC\lib\MSVCRTD.lib:
+5>    Searching C:\Program Files\Microsoft Visual Studio 9.0\VC\lib\OLDNAMES.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\odbc32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\odbccp32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\wsock32.lib:
+5>    Searching ..\Win32\Debug\cas_cci.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\kernel32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\user32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\gdi32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\winspool.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\comdlg32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\advapi32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\shell32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\ole32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\oleaut32.lib:
+5>    Searching C:\Program Files\Microsoft SDKs\Windows\v6.0A\\lib\uuid.lib:
+5>Finished searching libraries
+6>ocidl.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\oleidl.idl
+6>oleidl.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\objidl.idl
+6>objidl.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\unknwn.idl
+6>unknwn.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\oaidl.idl
+6>oaidl.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\servprov.idl
+6>servprov.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\urlmon.idl
+6>urlmon.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\msxml.idl
+5>Embedding manifest...
+6>msxml.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\dimm.idl
+5>Creating browse information file...
+6>dimm.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\shtypes.idl
+6>shtypes.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\include\mshtmhst.idl
+6>mshtmhst.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\docobj.idl
+6>docobj.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\include\exdisp.idl
+6>exdisp.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\include\objsafe.idl
+6>objsafe.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\include\oledb.idl
+6>oledb.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\propidl.idl
+6>propidl.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\transact.idl
+6>transact.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\oaidl.acf
+6>oaidl.acf
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\ocidl.acf
+6>ocidl.acf
+6>Compiling...
+6>stdafx.cpp
+5>Microsoft Browse Information Maintenance Utility Version 9.00.21022
+5>Copyright (C) Microsoft Corporation. All rights reserved.
+5>Build log was saved at "file://d:\beta\project\win\odbc\Win32\Debug\BuildLog.htm"
+5>cubrid_odbc - 0 error(s), 2 warning(s)
+6>d:\beta\project\src\cci\cas_cci.h(38) : warning C4274: #ident ignored; see documentation for #pragma comment(exestr, 'string')
+6>d:\beta\project\src\broker\cas_error.h(38) : warning C4274: #ident ignored; see documentation for #pragma comment(exestr, 'string')
+6>Compiling...
+6>Command.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\datasource.h(72) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\multipleresult.h(39) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\row.h(47) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.cpp(700) : warning C4482: nonstandard extension used: enum 'CCUBRIDRow::Type' used in qualified name
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>CUBRIDProvider.cpp
+6>CUBRIDRowRowset.cpp
+6>d:\beta\project\src\oledb\row.h(47) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDRow
+6>        ]
+6>        d:\beta\project\src\oledb\row.h(55) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDRow
+6>        ]
+6>CUBRIDStream.cpp
+6>d:\beta\project\src\oledb\row.h(47) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\cubridstream.h(40) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDRow
+6>        ]
+6>        d:\beta\project\src\oledb\row.h(55) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDRow
+6>        ]
+6>DataSource.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\datasource.h(72) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>Error.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\datasource.h(72) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>MultipleResult.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\multipleresult.h(39) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\row.h(47) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\multipleresult.cpp(197) : warning C4482: nonstandard extension used: enum 'CCUBRIDRow::Type' used in qualified name
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>ProviderInfo.cpp
+6>Row.cpp
+6>d:\beta\project\src\oledb\row.h(47) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\cubridstream.h(40) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\row.cpp(494) : warning C4482: nonstandard extension used: enum 'CCUBRIDRow::Type' used in qualified name
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDRow
+6>        ]
+6>        d:\beta\project\src\oledb\row.h(55) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDRow
+6>        ]
+6>Rowset.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\row.h(47) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\datasource.h(72) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\cubridstream.h(40) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>RowsetChange.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\datasource.h(72) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>RowsetRow.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\row.h(47) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\cubridstream.h(40) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>Session.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\datasource.h(72) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\row.h(47) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.cpp(271) : warning C4482: nonstandard extension used: enum 'CCUBRIDRow::Type' used in qualified name
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>SRColumnPrivileges.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\datasource.h(72) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>SRColumns.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\datasource.h(72) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>SRIndexes.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\srindexes.cpp(161) : warning C4101: 'ind' : unreferenced local variable
+6>d:\beta\project\src\oledb\srindexes.cpp(161) : warning C4101: 'int_val' : unreferenced local variable
+6>d:\beta\project\src\oledb\srindexes.cpp(161) : warning C4101: 'hReq2' : unreferenced local variable
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>SRKeyColumnUsage.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>SRPrimaryKeys.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>SRProviderTypes.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>SRStatistics.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>Generating Code...
+6>Compiling...
+6>SRTableConstraints.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>SRTablePrivileges.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\datasource.h(72) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>SRTables.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>SRTablesInfo.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>SRViewColumnUsage.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>SRViews.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>TransactionLocal.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>type.cpp
+6>util.cpp
+6>d:\beta\project\src\oledb\error.h(49) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\error.h(71) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\command.h(48) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\session.h(59) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\datasource.h(72) : warning C4581: deprecated behavior: '"apartment"' replaced with 'apartment' to process attribute
+6>d:\beta\project\src\oledb\atldb_cubrid.h(5538) : warning C4996: 'ocscpy': ocscpy is not safe. Intead, use ocscpy_s
+6>        c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\atlconv.h(738) : see declaration of 'ocscpy'
+6>        d:\beta\project\src\oledb\atldb_cubrid.h(5484) : while compiling class template member function 'HRESULT ATL::IColumnsInfoImpl<T>::GetColumnInfo(DBORDINAL *,DBCOLUMNINFO **,OLECHAR **)'
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>        d:\beta\project\src\oledb\command.h(65) : see reference to class template instantiation 'ATL::IColumnsInfoImpl<T>' being compiled
+6>        with
+6>        [
+6>            T=CCUBRIDCommand
+6>        ]
+6>Generating Code...
+6>Compiling resources...
+6>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+6>Copyright (C) Microsoft Corporation.  All rights reserved.
+6>Compiling manifest to resources...
+6>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+6>Copyright (C) Microsoft Corporation.  All rights reserved.
+6>Linking...
+6>   Creating library D:\beta\project\win\Win32\Debug/CUBRIDProvider.lib and object D:\beta\project\win\Win32\Debug/CUBRIDProvider.exp
+6>Microsoft (R) 32b/64b MIDL Compiler Version 7.00.0500 
+6>Copyright (c) Microsoft Corporation 1991-2006. All rights reserved.
+6>Processing D:\beta\project\win\Win32\Debug\_CUBRIDProvider.idl
+6>_CUBRIDProvider.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\include\prsht.idl
+6>prsht.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\wtypes.idl
+6>wtypes.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\basetsd.h
+6>basetsd.h
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\guiddef.h
+6>guiddef.h
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\include\mshtml.idl
+6>mshtml.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\ocidl.idl
+6>ocidl.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\oleidl.idl
+6>oleidl.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\objidl.idl
+6>objidl.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\unknwn.idl
+6>unknwn.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\oaidl.idl
+6>oaidl.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\servprov.idl
+6>servprov.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\urlmon.idl
+6>urlmon.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\msxml.idl
+6>msxml.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\dimm.idl
+6>dimm.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\shtypes.idl
+6>shtypes.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\include\mshtmhst.idl
+6>mshtmhst.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\docobj.idl
+6>docobj.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\include\exdisp.idl
+6>exdisp.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\include\objsafe.idl
+6>objsafe.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\include\oledb.idl
+6>oledb.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\propidl.idl
+6>propidl.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\transact.idl
+6>transact.idl
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\oaidl.acf
+6>oaidl.acf
+6>Processing C:\Program Files\Microsoft SDKs\Windows\v6.0A\\include\ocidl.acf
+6>ocidl.acf
+6>Embedding manifest...
+6>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+6>Copyright (C) Microsoft Corporation.  All rights reserved.
+6>Performing registration
+6>Build log was saved at "file://d:\beta\project\win\oledb\Win32\Debug\BuildLog.htm"
+6>CUBRIDProvider - 0 error(s), 163 warning(s)
+7>------ Build started: Project: install_client, Configuration: Debug Win32 ------
+7>Performing Makefile project actions
+7>Microsoft (R) Program Maintenance Utility Version 9.00.30729.01
+7>Copyright (C) Microsoft Corporation.  All rights reserved.
+7> cmd /c .\\install_client.bat "D:\beta\project\win\Win32\Debug" "d:\beta\project\win\install\CUBRID_Debug_Win32"
+7>子目录或文件 d:\beta\project\win\install\CUBRID_Debug_Win32 已经存在。
+7>子目录或文件 d:\beta\project\win\install\CUBRID_Debug_Win32\bin 已经存在。
+7>子目录或文件 d:\beta\project\win\install\CUBRID_Debug_Win32\msg\ 已经存在。
+7>子目录或文件 d:\beta\project\win\install\CUBRID_Debug_Win32\msg\en_US 已经存在。
+7>子目录或文件 d:\beta\project\win\install\CUBRID_Debug_Win32\msg\ko_KR.euckr 已经存在。
+7>子目录或文件 d:\beta\project\win\install\CUBRID_Debug_Win32\msg\ko_KR.utf8 已经存在。
+7>已复制         1 个文件。
+7>已复制         1 个文件。
+7>已复制         1 个文件。
+7>已复制         1 个文件。
+7>已复制         1 个文件。
+7>已复制         1 个文件。
+7>已复制         1 个文件。
+7>已复制         1 个文件。
+7>已复制         1 个文件。
+7>已复制         1 个文件。
+7>Build log was saved at "file://d:\beta\project\win\install\Win32\Debug\BuildLog.htm"
+7>install_client - 0 error(s), 0 warning(s)
+========== Build: 7 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+1>------ Build started: Project: convert_password, Configuration: Debug Win32 ------
+1>Compiling...
+1>convert_password.c
+1>d:\beta\project\src\executables\convert_password.c(51) : warning C4101: 'user_class' : unreferenced local variable
+1>d:\beta\project\src\executables\convert_password.c(55) : warning C4101: 'decoded_str' : unreferenced local variable
+1>d:\beta\project\src\executables\convert_password.c(56) : warning C4101: 'encoded_str' : unreferenced local variable
+1>Compiling manifest to resources...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>Linking...
+1>Embedding manifest...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>Build log was saved at "file://d:\beta\project\win\convert_password\Win32\Debug\BuildLog.htm"
+1>convert_password - 0 error(s), 3 warning(s)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+1>------ Build started: Project: get_disk_compat, Configuration: Debug Win32 ------
+1>Compiling...
+1>get_disk_compat.c
+1>Compiling manifest to resources...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>Linking...
+1>Embedding manifest...
+1>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+1>Copyright (C) Microsoft Corporation.  All rights reserved.
+1>Build log was saved at "file://d:\beta\project\win\get_disk_compat\Win32\Debug\BuildLog.htm"
+1>get_disk_compat - 0 error(s), 0 warning(s)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
